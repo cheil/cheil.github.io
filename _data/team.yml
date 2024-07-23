@@ -22,4 +22,19 @@
   role: PhD student
   image: assets/theme/images/anonym.jpg
     #description: >
-    #  Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).
+    
+- name: Daniel Khodachenko
+  role: Master student
+  image: assets/theme/images/anonym.jpg
+
+- name: Dominik Spath
+  role: Master student
+  image: assets/theme/images/anonym.jpg
+
+- name: Stefanie Strobl
+  role: Bachelor student
+  image: assets/theme/images/anonym.jpg
+
+
+
+
