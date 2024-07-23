@@ -1,6 +1,6 @@
 ---
-title: About
-description: Heil Lab - Computationally Modelling Superconducting Materials
+title: Heil Lab
+description: Computationally Modelling Superconducting Materials
 background:
   img: assets/theme/images/christoph_heil_001
   by: TU Graz - Lunghammer
