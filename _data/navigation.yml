@@ -8,17 +8,17 @@
   href: /team/
 - text: Blog
   href: /blog/
-- text: Documentation
+- text: Research
   menu: # Dropdown menu (one level deep only)
-  - text: Installation
+  - text: Projects
     href: /docs/installation/
-  - text: Configuration
+  - text: Publications
     href: /docs/configuration/
-  - href: /docs/markdown/ # Undefined "text" will automatically get the title of the page at "href" (here "Markdown")
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Dropdown header" # Title for block of menu items
-  - text: Page with custom navigation
-    href: /docs/custom-navigation/
-- text: GitHub
-  href: https://github.com/peterdesmet/petridish/
-  new_window: true
+      #- href: /docs/markdown/ # Undefined "text" will automatically get the title of the page at "href" (here "Markdown")
+      #- text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+      #- text: "Dropdown header" # Title for block of menu items
+      #- text: Page with custom navigation
+      #href: /docs/custom-navigation/
+      #- text: GitHub
+      #href: https://github.com/peterdesmet/petridish/
+      #new_window: true
