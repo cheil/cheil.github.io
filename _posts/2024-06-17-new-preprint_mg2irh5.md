@@ -2,7 +2,7 @@
 title: New preprint announcement
 description: Synthesis of Mg2IrH5 - A potential pathway to high-Tc hydride superconductivity at ambient pressure
 background:
-  img: "../../../assets/theme/images/mg2irh5_preprint.png"
+  img: "../../../assets/theme/images/mg2irh5_preprint_new.png"
   by: Tim Strobel
 author: Christoph Heil
 # tags: []
@@ -17,4 +17,4 @@ In our most recent preprint ([arXiv:2406.09538](https://arxiv.org/abs/2406.09538
 
 Mg2IrH5 is easily synthesized under mild P-T conditions and may provide a practical platform for producing superconducting Mg2IrH6 through non-equilibrium processing methods. We are very excited about this and believe that this discovery marks a significant step towards achieving high-temperature superconductivity at ambient pressures.
 
-<img src="../../../assets/theme/images/mg2irh5_preprint.png" width="1000"/>
+<img src="../../../assets/theme/images/mg2irh5_preprint_new.png" width="1000"/>
