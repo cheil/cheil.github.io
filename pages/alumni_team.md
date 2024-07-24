@@ -1,8 +1,8 @@
 ---
 layout: team
-team: team
+team: alumni_team
 title: Team
 description: Who we are
-permalink: /team/
+permalink: /alumni_team/
 ---
 

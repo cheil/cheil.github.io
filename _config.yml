@@ -1,5 +1,5 @@
 # SITE SETTINGS
-title: CMD Lab - Computational Material Design                        # Title in top navigation bar (navbar) and <head>
+title: Heil Group - Computational Material Design @ TU Graz     # Title in top navigation bar (navbar) and <head>
 author: Christoph Heil                    # Used for copyright statement in footer
 baseurl: "" #"/petridish"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)

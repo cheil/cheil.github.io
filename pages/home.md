@@ -1,8 +1,8 @@
 ---
 layout: home
-title: CMD Lab
+title: Heil Group
 description: Computational Material Design @ TU Graz
-background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
+background: assets/theme/images/banner1.jpg
 permalink: /
 ---
 
