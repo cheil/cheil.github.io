@@ -15,9 +15,9 @@
 - text: Research
   menu: # Dropdown menu (one level deep only)
   - text: Projects
-    href: /docs/installation/
+    href: /research/projects/
   - text: Publications
-    href: /docs/configuration/
+    href: /research/publications/
       #- href: /docs/markdown/ # Undefined "text" will automatically get the title of the page at "href" (here "Markdown")
       #- text: "---" # Divider to separate blocks of menu items (at least 3 "-")
       #- text: "Dropdown header" # Title for block of menu items
