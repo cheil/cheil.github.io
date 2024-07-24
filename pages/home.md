@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Heil Lab
-description: Computational Modelling of Superconducting Materials
+title: CMD Lab
+description: Computational Material Design @ TU Graz
 background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
 permalink: /
 ---

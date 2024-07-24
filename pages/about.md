@@ -1,6 +1,6 @@
 ---
-title: Heil Lab
-description: Computationally Modelling Superconducting Materials
+title: CMD Lab
+description: Computational Material Design @ TU Graz
 background:
   img: assets/theme/images/christoph_heil_001
   by: TU Graz - Lunghammer
@@ -10,7 +10,7 @@ permalink: /about/
 
 
 
-Welcome to the **Heil Lab**, where we employ state-of-the-art computational methods to describe physical phenomena in materials, in particular superconductivity and lattice dynamics, completely from first principles. I further utilize the predictive power of this approach to model and design new materials with certain desired properties. Broken down into bullet points, the main topics of my current research are:
+Welcome to the **Computational Material Design (CMD) Lab** at the TU Graz, where we employ state-of-the-art computational methods to describe physical phenomena in materials, in particular superconductivity and lattice dynamics, completely from first principles. I further utilize the predictive power of this approach to model and design new materials with certain desired properties. Broken down into bullet points, the main topics of my current research are:
 
 * Investigating superconductivity, charge-density waves, and their competition in reduced dimensions, in particular for transition metal chalcogenides.
 * Searching for new superconducting carbon-based materials in the nano-regime, i.e., nanoribbons, nanosheets, etc.
