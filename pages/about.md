@@ -2,7 +2,7 @@
 title: CMD Lab
 description: Computational Material Design @ TU Graz
 background:
-  img: assets/theme/images/christoph_heil_001
+  img: assets/theme/images/banner1
   by: TU Graz - Lunghammer
   #href: https://unsplash.com/photos/UmncJq4KPcA
 permalink: /about/
