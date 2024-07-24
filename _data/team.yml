@@ -22,7 +22,13 @@
   role: PhD student
   image: assets/theme/images/anonym.jpg
     #description: >
-    
+
+- name: Pedro Nunes Ferreira
+  role: PhD student
+  image: assets/theme/images/anonym.jpg
+  description: >
+    visiting from University of Sao Paulo
+
 - name: Daniel Khodachenko
   role: Master student
   image: assets/theme/images/anonym.jpg

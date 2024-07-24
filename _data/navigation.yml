@@ -5,7 +5,11 @@
 - text: About
   href: /about/
 - text: Team
-  href: /team/
+  menu: # Dropdown menu
+  - text: Current Team
+    href: /team/
+  - text: Alumni
+    href: /alumni/
 - text: Blog 
   href: /blog/
 - text: Research

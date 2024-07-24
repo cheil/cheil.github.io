@@ -1,0 +1,14 @@
+# Project team members listed below will appear on the /team page
+
+- name: Ethan P. B. Shapera
+  role: Postdoc researcher
+  description: >
+    now at University of Buffalo in the group of Eva Zurek
+    # image: assets/theme/images/anonym.jpg  
+
+- name: Roman Lucrezi
+  role: PhD student
+    # image: assets/theme/images/anonym.jpg
+    description: >
+    Stockholm University in the group of Ulrich Haeussermann
+    
