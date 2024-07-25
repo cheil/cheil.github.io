@@ -19,3 +19,4 @@ Welcome to the [**Computational Material Design (CMD) Lab**](https://www.tugraz.
 
 For currently running projects, please consult the [*Research Topics*](/research/projects/) section and if you want to know more or are looking for Bachelor and Master projects, don't hesitate to contact [*Christoph Heil*](/team/).
 
+<img src="../../../assets/theme/images/christoph_heil_036.jpg" width="1000"/>
