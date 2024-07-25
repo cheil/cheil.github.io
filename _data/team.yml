@@ -17,11 +17,16 @@
   role: Postdoc researcher
     #description: >
   image: assets/theme/images/anonym.jpg  
+  orcid: 0000-0002-5528-7657
+  googlescholar: dlKEp4wAAAAJ
+  email: mihir.sahoo@tugraz.at
 
 - name: Eva Kogler
   role: PhD student
   image: assets/theme/images/anonym.jpg
     #description: >
+  email: eva.kogler@tugraz.at
+  github: evakogler
 
 - name: Pedro Nunes Ferreira
   role: PhD student
