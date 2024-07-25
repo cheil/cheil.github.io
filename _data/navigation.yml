@@ -6,6 +6,8 @@
   href: /about/
 - text: Team
   menu: # Dropdown menu
+  - text: Christoph Heil
+    href: /pi_cv/
   - text: Current Team
     href: /team/
   - text: Alumni
