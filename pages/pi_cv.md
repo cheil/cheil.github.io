@@ -23,7 +23,7 @@ Information on my published work can also be found here:
 ## Podcast Interview
 I was invited to the TU Graz Podcast [Talk Science to Me](https://letscast.fm/sites/talk-science-to-me-33062f96/episode/talk-science-to-me-29-supraleiter) to present and chat about the research in my group. It was great fun to do such a discussion and I hope it is of interest to some of you.
 
-You can listen to it here, but it is only available in German for the moment. It is planned to do a similar thing in English soon, but it won’t be released until later this year.
+At the moment, the podcast is only available in German. It is planned to do a similar thing in English soon, but it won’t be released until later this year.
 
 
 ## Education and Academic Path
