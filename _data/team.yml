@@ -25,6 +25,8 @@
   role: PhD student
   image: assets/theme/images/anonym.jpg
     #description: >
+  orcid: 0000-0003-3465-8954
+  googlescholar: bJzCk7cAAAAJ
   email: eva.kogler@tugraz.at
   github: evakogler
 
@@ -39,12 +41,12 @@
 
 - name: Daniel Khodachenko
   role: Master student
-  image: assets/theme/images/anonym.jpg
+    #image: assets/theme/images/anonym.jpg
 
 - name: Dominik Spath
   role: Master student
-  image: assets/theme/images/anonym.jpg
+    #image: assets/theme/images/anonym.jpg
 
 - name: Stefanie Strobl
   role: Bachelor student
-  image: assets/theme/images/anonym.jpg
+    #image: assets/theme/images/anonym.jpg
