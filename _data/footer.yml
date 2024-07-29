@@ -11,6 +11,8 @@ columns:
     - text: Graz University of Technology
       href: http://tugraz.at
       new_window: true
+    - text: Privacy information
+      href: /privacy/
   
   #- description: > # E.g. funding acknowledgement. Can be Markdown
   #    This project is made with ❤ for open source.

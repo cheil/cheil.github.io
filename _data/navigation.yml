@@ -28,5 +28,5 @@
       #- text: GitHub
       #href: https://github.com/peterdesmet/petridish/
       #new_window: true
-- text: Privacy
-  href: /privacy/
+      #- text: Privacy
+      #  href: /privacy/
