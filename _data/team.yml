@@ -23,9 +23,10 @@
 
 - name: Eva Kogler
   role: PhD student
-  image: assets/theme/images/anonym.jpg
+  image: assets/theme/images/Eva_Kogler.jpeg
     #description: >
   orcid: 0000-0003-3465-8954
+  researchgate: Eva-Kogler-2
   googlescholar: bJzCk7cAAAAJ
   email: eva.kogler@tugraz.at
   github: evakogler
