@@ -1,6 +1,7 @@
 # SITE SETTINGS
 title: Heil Group - Computational Material Design @ TU Graz     # Title in top navigation bar (navbar) and <head>
 author: Christoph Heil                    # Used for copyright statement in footer
+repository: cheil/cheil.github.io.git
 baseurl: "" #"/petridish"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/markdown/#links
@@ -52,3 +53,6 @@ defaults:
       type: posts
     values:
       permalink: "/blog/:year/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts
+
+# Google Analytics
+google_analytics: G-93J080T52W
