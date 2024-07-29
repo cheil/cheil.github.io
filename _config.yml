@@ -2,9 +2,10 @@
 title: Heil Group - Computational Material Design @ TU Graz     # Title in top navigation bar (navbar) and <head>
 author: Christoph Heil                    # Used for copyright statement in footer
 repository: cheil/cheil.github.io.git
-baseurl: "" #"/petridish"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
+baseurl: "https://cheil.github.io" #"/petridish"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/markdown/#links
+url: "https://cheil.github.io"
 
 # SOCIAL PROFILES
 social:
@@ -33,6 +34,7 @@ markdown: kramdown
 plugins:                                # If you build your site on gh-pages, only use these plugins: https://pages.github.com/versions/
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
 exclude:
   - README.md
   - Gemfile
