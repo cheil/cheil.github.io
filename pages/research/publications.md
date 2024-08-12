@@ -27,7 +27,7 @@ M. F. Hansen, L. J. Conway, K. Dolui, **C. Heil**, C. J. Pickard, A. Pakhamova, 
 
 - *Machine learning assisted prediction of organic salt structure properties*\
 E. P. Shapera, D.-K. Bucar, R. P. Prasankumar, and **C. Heil**\
-[**arXiv:2402.09538 cond-mat**](https://arxiv.org/abs/2406.09538)
+[**npj Comp. Mat. 10**, 176 (2024), doi:10.1038/s41524-024-01355-x](https://www.nature.com/articles/s41524-024-01355-x)
 
 - *Probing the superconducting gap structure of ScRuSi via μSR and first-principles calculations*\
 K. Panda, A. Bhattacharyya, P. N. Ferreira, R. Mondal, A. Thamizhavel, D. T. Adroja, **C. Heil**, L. T. F. Eleno, and A. D. Hillier\
@@ -55,11 +55,11 @@ P. P. Ferreira, L. J. Conway, A. Cucciari, S. Di Cataldo, F. Giannessi, E. Kogle
 
 - *Superconductivity in Te-deficient ZrTe2*\
 L. E. Correa, P. P. Ferreira, L. R. de Faria, V. M. Fim, M. S. da Luz, M. S. Torikachvili, **C. Heil**, L. T. F. Eleno, and A. J. S. Machado\
-[**_J. Phys. Chem. C_** 2023, 127, 10, 5162–5168, doi:](https://doi.org/10.1021/acs.jpcc.2c08836)[10.1021/acs.jpcc.2c08836](https://doi.org/10.1021/acs.jpcc.2c08836 "DOI URL")
+[**_J. Phys. Chem. C_** 2023, 127, 10, 5162–5168, doi:10.1021/acs.jpcc.2c0883](https://doi.org/10.1021/acs.jpcc.2c08836)
 
 - *In-silico synthesis of lowest-pressure high-Tc ternary superhydrides*\
 R. Lucrezi, S. di Cataldo, W. von der Linden, L. Boeri, and **C. Heil**\
-[**npj Comp. Mat. 8**, 119 (2022), doi:](https://www.nature.com/articles/s41524-022-00801-y)[10.1038/s41524-022-00801-y](https://doi.org/10.1038/s41524-022-00801-y)
+[**npj Comp. Mat. 8**, 119 (2022), doi:10.1038/s41524-022-00801-y](https://www.nature.com/articles/s41524-022-00801-y)
 
 - *Intrinsic and doping-enhanced superconductivity in monolayer 1H-TaS2: Critical role of charge ordering and spin-orbit coupling*\
 C.-S. Lian, **C. Heil**, X. Liu, C. Si, F. Giustino, and W. Duan\
@@ -67,7 +67,7 @@ C.-S. Lian, **C. Heil**, X. Liu, C. Si, F. Giustino, and W. Duan\
 
 - *The 2021 Room-Temperature Superconductivity Roadmap*\
 L. Boeri, R.G. Hennig, P.J. Hirschfeld, G. Profeta, A. Sanna, E. Zurek, W.E. Pickett, M. Amsler, R. Dias, M. Eremets, **C. Heil**, R. Hemley, H. Liu, Y. Ma, C. Pierleoni, A. Kolmogorov, N. Rybin, D. Novoselov, V.I. Anisimov, A.R. Oganov, C.J. Pickard, T. Bi, R. Arita, I. Errea, C. Pellegrini, R. Requist, E.K.U. Gross, E.R. Margine, S.R. Xie, Y. Quan, A. Hire, L. Fanfarillo, G.R. Stewart, J.J. Hamlin, V. Stanev, R.S. Gonnelli, E. Piatti, D. Romanin, D. Daghero, and R. Valenti\
-[**JPhys. Condens. Matter 34**, 183002 (2022), doi:](https://iopscience.iop.org/article/10.1088/1361-648X/ac2864)[10.1088/1361-648X/ac2864](https://doi.org/10.1088/1361-648X/ac2864)
+[**JPhys. Condens. Matter 34**, 183002 (2022), doi:10.1088/1361-648X/ac2864](https://iopscience.iop.org/article/10.1088/1361-648X/ac2864)
 
 - *Probing magnetic exchange interactions with helium*\
 C. Trainer, C.M. Yim, **C. Heil**, L.S. Farrar, V. Tsurkan, A. Loidl, and P. Wahl\
