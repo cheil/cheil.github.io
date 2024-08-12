@@ -9,7 +9,7 @@ author: Christoph Heil
 comments: true
 ---
 
-We're pleased to announce the publication of our latest research paper, *Machine Learning Assisted Prediction of Organic Salt Structure Properties* in [npj Computational Materials 10, 176 (2024)]{https://www.nature.com/articles/s41524-024-01355-x}. This work marks a significant step forward in the challenging field of crystal structure prediction (CSP), which is essential for the development of new materials in areas like pharmaceuticals and semiconductors.
+We're pleased to announce the publication of our latest research paper, *Machine Learning Assisted Prediction of Organic Salt Structure Properties* in [npj Computational Materials 10, 176 (2024)](https://www.nature.com/articles/s41524-024-01355-x). This work marks a significant step forward in the challenging field of crystal structure prediction (CSP), which is essential for the development of new materials in areas like pharmaceuticals and semiconductors.
 
 <img src="../../../assets/theme/images/v_ML_vs_DFT.png" width="1000"/>
 Predicting the structure of organic crystals is notoriously difficult due to the complex and flexible nature of these molecules. Traditional methods often require vast computational resources, involving thousands of calculations to explore the many possible crystal forms. Our research aims to address this challenge by introducing a machine learning approach that reduces the computational cost and complexity of CSP.
