@@ -17,6 +17,10 @@ Information on our published work can also be obtained via
 
 ## Publications in chronological order (newest first)
 
+- *Nevanlinna Analytic Continuation for Migdal-Eliashberg Theory*\
+D. M. Khodachenko, R. Lucrezi, P. N. Ferreira, M. Aichhorn, and **C. Heil**\
+[**arXiv:2409.02737 cond-mat**](https://arxiv.org/abs/2409.02737)
+
 - *Ab initio modeling of superconducting alloys*\
 P. N. Ferreira, R. Lucrezi, I. Guilhon, M. Marques, L. K. Teles, **C. Heil**, and L. T. F. Eleno\
 [**arXiv:2406.15174 cond-mat**](https://arxiv.org/abs/2406.15174)
