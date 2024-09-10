@@ -15,19 +15,19 @@ Information on our published work can also be obtained via
 *   [Google Scholar](https://scholar.google.com/citations?user=Zmc1Fz8AAAAJ&hl=en)
 *   [Pure](https://graz.pure.elsevier.com/en/persons/christoph-heil)
 
-## Publications in chronological order (newest first)
+## Publications and preprints in chronological order (newest first)
 
 - *Nevanlinna Analytic Continuation for Migdal-Eliashberg Theory*\
 D. M. Khodachenko, R. Lucrezi, P. N. Ferreira, M. Aichhorn, and **C. Heil**\
 [**arXiv:2409.02737 cond-mat**](https://arxiv.org/abs/2409.02737)
 
-- *Ab initio modeling of superconducting alloys*\
-P. N. Ferreira, R. Lucrezi, I. Guilhon, M. Marques, L. K. Teles, **C. Heil**, and L. T. F. Eleno\
-[**arXiv:2406.15174 cond-mat**](https://arxiv.org/abs/2406.15174)
-
 - *Synthesis of Mg2IrH5: A potential pathway to high-Tc hydride superconductivity at ambient pressure*\
 M. F. Hansen, L. J. Conway, K. Dolui, **C. Heil**, C. J. Pickard, A. Pakhamova, M. Mezouar, M. Kunz, R. P. Prasankumar, and T. A. Strobel\
 [**arXiv:2406.09128 cond-mat**](https://arxiv.org/abs/2406.09538)
+
+- *Ab initio modeling of superconducting alloys*\
+P. N. Ferreira, R. Lucrezi, I. Guilhon, M. Marques, L. K. Teles, **C. Heil**, and L. T. F. Eleno\
+[**Mater. Today Phys. 48**, 101547 (2024), doi:10.1016/j.mtphys.2024.101547](https://doi.org/10.1016/j.mtphys.2024.101547)
 
 - *Machine learning assisted prediction of organic salt structure properties*\
 E. P. Shapera, D.-K. Bucar, R. P. Prasankumar, and **C. Heil**\
