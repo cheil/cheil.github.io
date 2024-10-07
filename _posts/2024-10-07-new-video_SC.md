@@ -18,4 +18,4 @@ Check out the video on the TU Graz's YouTube channel here (only in German for th
 We hope this helps bring superconductors to a wider audience, and we look forward to future content that makes complex scientific topics accessible to everyone!
 Feel free to share it, and let us know your thoughts in the comments!
 
-<img src="../../../assets/theme/images/SC_video.png" width="1000"/>
+<img src="../../../assets/theme/images/SC_video2.png" width="1000"/>
