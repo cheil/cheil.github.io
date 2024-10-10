@@ -17,13 +17,14 @@ Information on our published work can also be obtained via
 
 ## Publications and preprints in chronological order (newest first)
 
-- *Nevanlinna Analytic Continuation for Migdal-Eliashberg Theory*\
-D. M. Khodachenko, R. Lucrezi, P. N. Ferreira, M. Aichhorn, and **C. Heil**\
-[**arXiv:2409.02737 cond-mat**](https://arxiv.org/abs/2409.02737)
 
 - *Synthesis of Mg2IrH5: A potential pathway to high-Tc hydride superconductivity at ambient pressure*\
 M. F. Hansen, L. J. Conway, K. Dolui, **C. Heil**, C. J. Pickard, A. Pakhamova, M. Mezouar, M. Kunz, R. P. Prasankumar, and T. A. Strobel\
 [**arXiv:2406.09128 cond-mat**](https://arxiv.org/abs/2406.09538)
+
+- *Nevanlinna Analytic Continuation for Migdal-Eliashberg Theory*\
+D. M. Khodachenko, R. Lucrezi, P. N. Ferreira, M. Aichhorn, and **C. Heil**\
+[**Comput. Mater. Today** (2024), 100015](https://doi.org/10.1016/j.commt.2024.100015)
 
 - *Ab initio modeling of superconducting alloys*\
 P. N. Ferreira, R. Lucrezi, I. Guilhon, M. Marques, L. K. Teles, **C. Heil**, and L. T. F. Eleno\
