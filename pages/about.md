@@ -14,7 +14,7 @@ Welcome to the new internet home of the [**Computational Material Design (CMD) L
 
 We are a young [research group](/team/) led by [*Christoph Heil*](/pi_cv/) that employs state-of-the-art computational methods to describe physical phenomena in materials, in particular superconductivity and lattice dynamics, completely from first principles. 
 
-If you want a brief introduction to superconductivity and why superconductors are such interesting and important materials, check out this video on TU Graz's YouTube channel (currently available only in German): [What is a Superconductor?](https://www.youtube.com/watch?v=l4u-GYTrByU).
+If you want a brief introduction to superconductivity and why superconductors are such interesting and important materials, check out this video on TU Graz's YouTube channel (currently available only in German): [What is a Superconductor?](https://www.youtube.com/watch?v=l4u-GYTrByU)
 
 We also utilize the predictive power of our approach to model and design new materials with certain desired properties. Broken down into bullet points, the main topics of our current research are:
 
