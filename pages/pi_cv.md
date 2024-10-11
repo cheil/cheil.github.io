@@ -36,8 +36,7 @@ At the moment, the podcast is only available in German. It is planned to do a si
 ## Education and Academic Path
 
 -    Assistant professor, TU Graz, since 2022
--    Project leader – Senior postdoc researcher, TU Graz, 2019 – 2022
--    Schrödinger Fellow – return phase, TU Graz, 2018 – 2019
+-    Project leader – Senior postdoc researcher, TU Graz, 2018 – 2022
 -    Schrödinger Fellow in the group of Prof. Giustino, University of Oxford, 2016 – 2018
 -    Postdoc researcher in the group of Prof. Boeri, TU Graz, 2015 – 2016
 -    PhD studies of Technical Physics, TU Graz, 2011 – 2015
