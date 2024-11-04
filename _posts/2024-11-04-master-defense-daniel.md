@@ -1,6 +1,6 @@
 ---
 title: Daniel Khodachenko, MSc
-description: Today, Daniel Khodachenko successfully defended his master thesis
+description: Daniel Khodachenko successfully defended his master thesis
 # background:
 #   img: "../../../assets/theme/images/lucrezi_phd.jpeg"
 #   by: American Physical Society - Phys. Rev. B, 109, 224517 (2024)
