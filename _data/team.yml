@@ -4,7 +4,7 @@
   role: Lab Leader # Will appear next to name
   image: assets/theme/images/christoph_heil_009.jpg # Can be external link
   description: > # Can be Markdown
-   Assistant Professor for Theoretical and Computational Physics @ TU Graz
+   Associate Professor for Theoretical and Computational Physics @ TU Graz
   orcid: 0000-0001-9693-9183
   researchgate: Christoph-Heil-3
   googlescholar: Zmc1Fz8AAAAJ
@@ -40,11 +40,11 @@
   researchgate: Pedro-Nunes-Ferreira
   googlescholar: znT2QDIAAAAJ
 
-- name: Daniel Khodachenko
+- name: Dominik Spath
   role: Master student
     #image: assets/theme/images/anonym.jpg
 
-- name: Dominik Spath
+- name: Michael Steiner
   role: Master student
     #image: assets/theme/images/anonym.jpg
 

@@ -11,7 +11,7 @@ permalink: /pi_cv/
 
 - Name: Christoph Heil
 - Nationality: Austria
-- Current Position: Assistant professor in the Department of Theoretical and Computational Physics, Graz University of Technology (TU Graz)
+- Current Position: Associate professor in the Department of Theoretical and Computational Physics, Graz University of Technology (TU Graz)
 - Habilitation in *Theoretical Physics and Computational Physics*
 
 Information on my published work can also be found here:
@@ -35,7 +35,8 @@ At the moment, the podcast is only available in German. It is planned to do a si
 
 ## Education and Academic Path
 
--    Assistant professor, TU Graz, since 2022
+-    Associate professor, TU Graz, since 2024
+-    Assistant professor, TU Graz, 2022 - 2024
 -    Project leader – Senior postdoc researcher, TU Graz, 2018 – 2022
 -    Schrödinger Fellow in the group of Prof. Giustino, University of Oxford, 2016 – 2018
 -    Postdoc researcher in the group of Prof. Boeri, TU Graz, 2015 – 2016
