@@ -29,7 +29,7 @@ We are equally excited to announce that we’ve submitted a new preprint to arXi
 
 This paper represents a significant departure from our previous work, combining *ab initio* materials calculations with device modeling techniques. In collaboration with the group of [Karl Berggren at MIT](https://qnn-rle.mit.edu/), we created a comprehensive framework to model nonequilibrium quasiparticle and phonon dynamics in thin superconducting films under optical irradiation.
 
-What makes this study special is its practical focus on superconducting nanowire single-photon detectors (SNSPDs), devices critical for applications in quantum communication and sensing. By bridging the gap between fundamental materials theory and device-level modeling, we achieved improved quantitative agreement with experimental measurements—a significant step forward for predicting and optimizing device performance.
+What makes this study special is its practical focus on superconducting nanowire single-photon detectors ([SNSPDs](https://en.wikipedia.org/wiki/Superconducting_nanowire_single-photon_detector)), devices critical for applications in quantum communication and sensing. By bridging the gap between fundamental materials theory and device-level modeling, we achieved improved quantitative agreement with experimental measurements—a significant step forward for predicting and optimizing device performance.
 
 While the methods were developed for SNSPDs, they are highly general and can be applied to other superconducting devices, such as transition-edge sensors, microwave resonators, and even superconducting qubits. This cross-disciplinary approach highlights the power of collaboration and the exciting opportunities at the intersection of materials science and device engineering.
 
