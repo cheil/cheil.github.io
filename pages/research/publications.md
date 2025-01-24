@@ -28,7 +28,7 @@ M. F. Hansen, L. J. Conway, K. Dolui, **C. Heil**, C. J. Pickard, A. Pakhamova, 
 
 - *Nevanlinna Analytic Continuation for Migdal-Eliashberg Theory*\
 D. M. Khodachenko, R. Lucrezi, P. N. Ferreira, M. Aichhorn, and **C. Heil**\
-[**Comput. Mater. Today** (2024), 100015](https://doi.org/10.1016/j.commt.2024.100015)
+[**Comput. Mater. Today** (2024), 100015, doi:10.1016/j.commt.2024.100015](https://doi.org/10.1016/j.commt.2024.100015)
 
 - *Ab initio modeling of superconducting alloys*\
 P. N. Ferreira, R. Lucrezi, I. Guilhon, M. Marques, L. K. Teles, **C. Heil**, and L. T. F. Eleno\
