@@ -15,7 +15,8 @@ Information on our published work can also be obtained via
 *   [Google Scholar](https://scholar.google.com/citations?user=Zmc1Fz8AAAAJ&hl=en)
 *   [Pure](https://graz.pure.elsevier.com/en/persons/christoph-heil)
 
-## Publications and preprints in chronological order (newest first)
+## Publications and preprints
+in chronological order (newest first)
 
 - *Ab initio modeling of single-photon detection in superconducting nanowires*\
 A. Simon, R. Foster, M. Sahoo, J. Shi, E. Batson, F. Incalza, **C. Heil**, and K. K. Berggren\
