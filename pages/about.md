@@ -8,7 +8,7 @@ background:
 permalink: /about/
 ---
 
-Welcome to the internet home of the [**Computational Material Design (CMD) Lab**](https://www.tugraz.at/institute/itpcp/research/computational-modelling-of-superconducting-materials) at the [Graz University of Technology (TU Graz)](https://www.tugraz.at/home).
+Welcome to the internet home of the [**Computational Material Design (CMD) Lab**](https://www.tugraz.at/institute/itpcp/research/computational-material-design-superconductors) at the [Graz University of Technology (TU Graz)](https://www.tugraz.at/home).
 
 We are a [research group](/team/) led by [*Christoph Heil*](/pi_cv/) that specializes in using state-of-the-art computational methods to explore and predict physical phenomena in materials. Our focus lies on superconductivity and lattice dynamics, with a strong emphasis on understanding these phenomena entirely from first principles.
 
@@ -16,7 +16,7 @@ If you’re curious about superconductivity and why it’s such an exciting and 
 
 You can also hear about our work and related topics in these podcast episodes:
 - [Talk Science to Me](https://letscast.fm/sites/talk-science-to-me-33062f96/episode/talk-science-to-me-29-supraleiter) (in German)
-- [Bridge the Gap](https://open.spotify.com/show/10IWkm7WJrtxadQ06rW2WJ)
+- [Bridge the Gap](https://youtu.be/TehDJacB80I?si=7ljz1RJYFAyOBGhF)
 
 Our work extends to utilizing the predictive power of first-principles methods to design new materials with desired properties. Some of the key areas we are currently working on include:
 
