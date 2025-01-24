@@ -17,10 +17,13 @@ Information on our published work can also be obtained via
 
 ## Publications and preprints in chronological order (newest first)
 
+- *Ab initio modeling of single-photon detection in superconducting nanowires*\
+A. Simon, R. Foster, M. Sahoo, J. Shi, E. Batson, F. Incalza, **C. Heil**, and K. K. Berggren\
+[**arXiv:2501.13791 cond-mat**](https://arxiv.org/abs/2501.13791)
 
 - *Synthesis of Mg2IrH5: A potential pathway to high-Tc hydride superconductivity at ambient pressure*\
 M. F. Hansen, L. J. Conway, K. Dolui, **C. Heil**, C. J. Pickard, A. Pakhamova, M. Mezouar, M. Kunz, R. P. Prasankumar, and T. A. Strobel\
-[**arXiv:2406.09128 cond-mat**](https://arxiv.org/abs/2406.09538)
+[**Phys. Rev. B 110**, 214513 (2024), doi:10.1103/PhysRevB.110.214513](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.214513)
 
 - *Nevanlinna Analytic Continuation for Migdal-Eliashberg Theory*\
 D. M. Khodachenko, R. Lucrezi, P. N. Ferreira, M. Aichhorn, and **C. Heil**\
