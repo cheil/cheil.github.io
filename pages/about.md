@@ -8,21 +8,25 @@ background:
 permalink: /about/
 ---
 
+Welcome to the internet home of the [**Computational Material Design (CMD) Lab**](https://www.tugraz.at/institute/itpcp/research/computational-modelling-of-superconducting-materials) at the [Graz University of Technology (TU Graz)](https://www.tugraz.at/home).
 
+We are a [research group](/team/) led by [*Christoph Heil*](/pi_cv/) that specializes in using state-of-the-art computational methods to explore and predict physical phenomena in materials. Our focus lies on superconductivity and lattice dynamics, with a strong emphasis on understanding these phenomena entirely from first principles.
 
-Welcome to the new internet home of the [**Computational Material Design (CMD) Lab**](https://www.tugraz.at/institute/itpcp/research/computational-modelling-of-superconducting-materials) at the [Graz University of Technology (TU Graz)](https://www.tugraz.at/home).
+If you’re curious about superconductivity and why it’s such an exciting and important field, you can check out this video on TU Graz’s YouTube channel (currently available only in German): [What is a Superconductor?](https://www.youtube.com/watch?v=l4u-GYTrByU), where I talk about superconductivity and its importance.
 
-We are a young [research group](/team/) led by [*Christoph Heil*](/pi_cv/) that employs state-of-the-art computational methods to describe physical phenomena in materials, in particular superconductivity and lattice dynamics, completely from first principles. 
+You can also hear about our work and related topics in these podcast episodes:
+- [Talk Science to Me](https://letscast.fm/sites/talk-science-to-me-33062f96/episode/talk-science-to-me-29-supraleiter) (in German)
+- [Bridge the Gap](https://open.spotify.com/show/10IWkm7WJrtxadQ06rW2WJ)
 
-If you want a brief introduction to superconductivity and why superconductors are such interesting and important materials, check out this video on TU Graz's YouTube channel (currently available only in German): [What is a Superconductor?](https://www.youtube.com/watch?v=l4u-GYTrByU)
+Our work extends to utilizing the predictive power of first-principles methods to design new materials with desired properties. Some of the key areas we are currently working on include:
 
-We also utilize the predictive power of our approach to model and design new materials with certain desired properties. Broken down into bullet points, the main topics of our current research are:
+- **Investigating superconductivity, charge-density waves, and their competition** in reduced dimensions, particularly in transition metal chalcogenides.  
+- **Searching for new carbon-based superconducting materials** in the nano-regime, such as nanoribbons and nanosheets.  
+- **Exploring the superconducting phase in high-pressure hydrides** and predicting new materials with record-breaking \( T_c \).  
 
-* Investigating superconductivity, charge-density waves, and their competition in reduced dimensions, in particular for transition metal chalcogenides.
-* Searching for new superconducting carbon-based materials in the nano-regime, i.e., nanoribbons, nanosheets, etc.
-* Understanding the superconducting phase in high-pressure hydrides and predicting new highest-Tc materials.
+For more details about our ongoing projects, visit the [*Research Topics*](/research/projects/) section. A full list of our publications is available in the [*Publications*](/research/publications/) section. 
 
+If you’re interested in collaborating or looking for Bachelor’s or Master’s thesis opportunities, feel free to contact [*Christoph Heil*](/pi_cv/).
 
-You can find more information on current projects in the [*Research Topics*](/research/projects/) section and if you want to know more or are looking for Bachelor and Master projects, don't hesitate to contact [*Christoph Heil*](/pi_cv/).
 
 <img src="../../../assets/theme/images/christoph_heil_036.jpg" width="1000"/>
