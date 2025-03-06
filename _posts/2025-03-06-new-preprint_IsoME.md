@@ -1,6 +1,6 @@
 ---
 title: Announcing IsoME
-description: IsoME: Streamlining High-Precision Eliashberg Calculations
+description: IsoME - Streamlining High-Precision Eliashberg Calculations
 background:
   img: "../../../assets/theme/images/IsoME_flowchart_v1.png"
   by: Eva Kogler
