@@ -9,6 +9,23 @@ permalink: /research/projects/
 toc: true
 ---
 
+## IsoME: A Julia Package for High-Precision Superconductivity Calculations
+
+{:.clearfix}
+<img src="../../assets/theme/images/IsoME_flowchart_v1.jpg" width="450"/>{:.rounded .float-left}
+
+We have developed **IsoME**, a Julia package that integrates multiple computational methods for determining superconducting properties with high precision. IsoME unifies various levels of approximation—from the semi-empirical McMillan-Allen-Dynes formula (and its machine learning variant) to fully ab initio calculations based on isotropic Migdal-Eliashberg theory. It supports both constant density-of-states (cDOS) and variable density-of-states (vDOS) approaches, with the option to include static Coulomb interactions.
+
+Designed to accommodate both routine material screening and detailed theoretical investigations, IsoME features an automatic Tc search mode that streamlines high-throughput computations by determining the critical temperature (Tc) without manual temperature specification. The package integrates seamlessly with common DFT/DFPT and GW codes, ensuring compatibility with existing computational workflows. In addition, the IsoME repository includes examples to help users get started quickly.
+
+IsoME is available as an open-source package through multiple platforms:
+- **GitHub:** [github.com/cheil/IsoME.jl](https://github.com/cheil/IsoME.jl)
+- **JuliaHub:** [juliahub.com/ui/Packages/General/IsoME](https://juliahub.com/ui/Packages/General/IsoME)
+- **Zenodo:** [DOI:10.5281/zenodo.14967551](https://zenodo.org/records/14967551)
+
+Further details on the functionality and benchmark tests of IsoME are provided in the accompanying preprint on [arXiv:2503.03559](https://arxiv.org/abs/2503.03559).
+
+
 ## Transition metal chalcogenides under extreme pressure
 
 {:.clearfix}
