@@ -12,8 +12,7 @@ toc: true
 ## IsoME: A Julia Package for High-Precision Superconductivity Calculations
 
 {:.clearfix}
-<img src="../../assets/theme/images/IsoME_flowchart_v1.jpg" width="450"/>{:.rounded .float-left}
-
+<img src="../../assets/theme/images/IsoME_flowchart_v1.png" width="450"/>{:.rounded .float-right}
 We have developed **IsoME**, a Julia package that integrates multiple computational methods for determining superconducting properties with high precision. IsoME unifies various levels of approximation—from the semi-empirical McMillan-Allen-Dynes formula (and its machine learning variant) to fully ab initio calculations based on isotropic Migdal-Eliashberg theory. It supports both constant density-of-states (cDOS) and variable density-of-states (vDOS) approaches, with the option to include static Coulomb interactions.
 
 Designed to accommodate both routine material screening and detailed theoretical investigations, IsoME features an automatic Tc search mode that streamlines high-throughput computations by determining the critical temperature (Tc) without manual temperature specification. The package integrates seamlessly with common DFT/DFPT and GW codes, ensuring compatibility with existing computational workflows. In addition, the IsoME repository includes examples to help users get started quickly.
