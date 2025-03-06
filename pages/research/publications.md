@@ -18,6 +18,10 @@ Information on our published work can also be obtained via
 ## Publications and preprints
 in chronological order (newest first)
 
+- *IsoME: Streamlining High-Precision Eliashberg Calculations*\
+E. Kogler, D. Spath, R. Lucrezi, H. Mori, Z. Zhu, Z. Li, E. R. Margine, **C. Heil**\
+[**arXiv:2503.03559 cond-mat**](https://arxiv.org/abs/2503.03559)
+
 - *Ab initio modeling of single-photon detection in superconducting nanowires*\
 A. Simon, R. Foster, M. Sahoo, J. Shi, E. Batson, F. Incalza, **C. Heil**, and K. K. Berggren\
 [**arXiv:2501.13791 cond-mat**](https://arxiv.org/abs/2501.13791)
