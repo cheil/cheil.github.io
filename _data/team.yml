@@ -21,6 +21,14 @@
   googlescholar: dlKEp4wAAAAJ
   email: mihir.sahoo@tugraz.at
 
+- name: Pedro Nunes Ferreira
+  role: Postdoc researcher
+  image: assets/theme/images/pnf.jpg
+  #description: >
+  orcid: 0000-0002-1135-0570
+  researchgate: Pedro-Nunes-Ferreira
+  googlescholar: znT2QDIAAAAJ
+
 - name: Eva Kogler
   role: PhD student
   image: assets/theme/images/Eva_Kogler.jpeg
@@ -30,15 +38,6 @@
   googlescholar: bJzCk7cAAAAJ
   email: eva.kogler@tugraz.at
   github: evakogler
-
-- name: Pedro Nunes Ferreira
-  role: PhD student
-  image: assets/theme/images/pnf.jpg
-  description: >
-    visiting from University of Sao Paulo
-  orcid: 0000-0002-1135-0570
-  researchgate: Pedro-Nunes-Ferreira
-  googlescholar: znT2QDIAAAAJ
 
 - name: Dominik Spath
   role: Master student
