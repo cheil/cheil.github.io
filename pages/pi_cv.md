@@ -27,10 +27,10 @@ Together with the science communications department and the educational technolo
 Check it out on the TU Graz's YouTube channel here (only in German for the moment): [What is a Superconductor?](https://www.youtube.com/watch?v=l4u-GYTrByU)
 
 
-## Podcast Interview
-I was invited to the TU Graz Podcast [Talk Science to Me](https://letscast.fm/sites/talk-science-to-me-33062f96/episode/talk-science-to-me-29-supraleiter) to present and chat about the research in my group. It was great fun to do such a discussion and I hope it is of interest to some of you.
+## Podcast Interviews
+I was invited to the TU Graz Podcast [Talk Science to Me](https://letscast.fm/sites/talk-science-to-me-33062f96/episode/talk-science-to-me-29-supraleiter) to discuss the research in my group (in German). It was an enjoyable experience, and I hope you find it interesting.
 
-At the moment, the podcast is only available in German. It is planned to do a similar thing in English soon, but it won’t be released until later this year.
+If you prefer an English-language interview, I also joined the [Bridge the Gap](https://www.youtube.com/playlist?list=PLN0Wx9TNQvIkwqApxGIxSsOTF0eSjUZt6) podcast, hosted by PhD students Tommaso Mazzocchi and Daniel Werner. Their show explores scientific topics and the experiences of researchers.
 
 
 ## Education and Academic Path
