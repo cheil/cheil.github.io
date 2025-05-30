@@ -18,6 +18,10 @@ Information on our published work can also be obtained via
 ## Publications and preprints
 in chronological order (newest first)
 
+- *Prediction and Synthesis of Mg4Pt3H6: A Metallic Complex Transition Metal Hydride Stabilized at Ambient Pressure*\
+W. Lu, M. J. Hutcheon, M. F. Hansen, K. Dolui, S. Sinha, M. R. Sahoo, C. J. Pickard, **C. Heil**, A. Pakhomova, M. Mezouar, D. Daisenberger, S. Chariton, V. Prakapenka, M. N. Julian, R. P. Prasankumar, T. A. Strobel\
+[**arXiv:2505.22546 cond-mat**](https://arxiv.org/abs/2505.22546)
+
 - *IsoME: Streamlining High-Precision Eliashberg Calculations*\
 E. Kogler, D. Spath, R. Lucrezi, H. Mori, Z. Zhu, Z. Li, E. R. Margine, **C. Heil**\
 [**arXiv:2503.03559 cond-mat**](https://arxiv.org/abs/2503.03559)
