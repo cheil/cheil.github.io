@@ -162,7 +162,7 @@ J.A. Flores-Livas, M. Amsler, **C. Heil**, A. Sanna, L. Boeri, G. Profeta, C. Wo
 **C. Heil**, L. Boeri, H. Sormann, W. von der Linden, and M. Aichhorn\
 [**Phys. Rev. B 90**, 165122 (2014)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.90.165122)
 
-- *Accurate bare susceptibilities from full-potential _ab initio_ calculations*\
+- *Accurate bare susceptibilities from full-potential ab initio calculations*\
 **C. Heil**, H. Sormann, L. Boeri, M. Aichhorn, and W. von der Linden\
 [**Phys. Rev. B 90**, 115143 (2014)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.90.115143)
 
