@@ -22,7 +22,7 @@ IsoME is available as an open-source package through multiple platforms:
 - **JuliaHub:** [juliahub.com/ui/Packages/General/IsoME](https://juliahub.com/ui/Packages/General/IsoME)
 - **Zenodo:** [DOI:10.5281/zenodo.14967551](https://zenodo.org/records/14967551)
 
-Further details on the functionality and benchmark tests of IsoME are provided in the accompanying preprint on [arXiv:2503.03559](https://arxiv.org/abs/2503.03559).
+Further details on the functionality and benchmark tests of IsoME are provided in the accompanying paper on [Computer Physics Communications 315, 109720 (2025)](https://doi.org/10.1016/j.cpc.2025.109720).
 
 
 ## Transition metal chalcogenides under extreme pressure

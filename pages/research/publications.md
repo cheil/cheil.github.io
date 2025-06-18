@@ -22,13 +22,13 @@ in chronological order (newest first)
 W. Lu, M. J. Hutcheon, M. F. Hansen, K. Dolui, S. Sinha, M. R. Sahoo, C. J. Pickard, **C. Heil**, A. Pakhomova, M. Mezouar, D. Daisenberger, S. Chariton, V. Prakapenka, M. N. Julian, R. P. Prasankumar, and T. A. Strobel\
 [**arXiv:2505.22546 cond-mat**](https://arxiv.org/abs/2505.22546)
 
-- *IsoME: Streamlining High-Precision Eliashberg Calculations*\
-E. Kogler, D. Spath, R. Lucrezi, H. Mori, Z. Zhu, Z. Li, E. R. Margine, and **C. Heil**\
-[**arXiv:2503.03559 cond-mat**](https://arxiv.org/abs/2503.03559)
-
 - *Ab initio modeling of single-photon detection in superconducting nanowires*\
 A. Simon, R. Foster, M. Sahoo, J. Shi, E. Batson, F. Incalza, **C. Heil**, and K. K. Berggren\
 [**arXiv:2501.13791 cond-mat**](https://arxiv.org/abs/2501.13791)
+
+- *IsoME: Streamlining High-Precision Eliashberg Calculations*\
+E. Kogler, D. Spath, R. Lucrezi, H. Mori, Z. Zhu, Z. Li, E. R. Margine, and **C. Heil**\
+[**Comput. Phys. Commun. 315**, 109720 (2025)](https://doi.org/10.1016/j.cpc.2025.109720)
 
 - *Synthesis of Mg2IrH5: A potential pathway to high-Tc hydride superconductivity at ambient pressure*\
 M. F. Hansen, L. J. Conway, K. Dolui, **C. Heil**, C. J. Pickard, A. Pakhamova, M. Mezouar, M. Kunz, R. P. Prasankumar, and T. A. Strobel\
