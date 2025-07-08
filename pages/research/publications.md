@@ -19,7 +19,7 @@ Information on our published work can also be obtained via
 in chronological order (newest first)
 
 - *Vacancy-free cubic superconducting NbN enabled by quantum anharmonicity*\
-E. Kogler, M. R. Sahoo, C.-N. Tsai, F. Jöbstl, R. Lucrezi, P. I. C. Cooke, B. Kunert, R. Resel, C. J. Pickard, M. N. Julian, R. P. Prasankumar, M. I. Hussein, and **C. Heil**
+E. Kogler, M. R. Sahoo, C.-N. Tsai, F. Jöbstl, R. Lucrezi, P. I. C. Cooke, B. Kunert, R. Resel, C. J. Pickard, M. N. Julian, R. P. Prasankumar, M. I. Hussein, and **C. Heil**\
 [**arXiv:2507.03417 cond-mat**](https://arxiv.org/abs/2507.03417)
 
 - *Prediction and Synthesis of Mg<sub>4</sub>Pt<sub>3</sub>H<sub>6</sub>: A Metallic Complex Transition Metal Hydride Stabilized at Ambient Pressure*\
