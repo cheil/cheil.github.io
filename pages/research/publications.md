@@ -34,7 +34,7 @@ A. Simon, R. Foster, M. Sahoo, J. Shi, E. Batson, F. Incalza, **C. Heil**, and K
 E. Kogler, D. Spath, R. Lucrezi, H. Mori, Z. Zhu, Z. Li, E. R. Margine, and **C. Heil**\
 [**Comput. Phys. Commun. 315**, 109720 (2025)](https://doi.org/10.1016/j.cpc.2025.109720)
 
-- *Synthesis of Mg2IrH5: A potential pathway to high-T<sub>c</sub> hydride superconductivity at ambient pressure*\
+- *Synthesis of Mg<sub>2</sub>IrH<sub>5</sub>: A potential pathway to high-T<sub>c</sub> hydride superconductivity at ambient pressure*\
 M. F. Hansen, L. J. Conway, K. Dolui, **C. Heil**, C. J. Pickard, A. Pakhamova, M. Mezouar, M. Kunz, R. P. Prasankumar, and T. A. Strobel\
 [**Phys. Rev. B 110**, 214513 (2024), doi:10.1103/PhysRevB.110.214513](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.214513)
 
@@ -94,7 +94,7 @@ L. Boeri, R.G. Hennig, P.J. Hirschfeld, G. Profeta, A. Sanna, E. Zurek, W.E. Pic
 C. Trainer, C.M. Yim, **C. Heil**, L.S. Farrar, V. Tsurkan, A. Loidl, and P. Wahl\
 [**Phys. Rev. Lett.** **127**, 166803 (2021), doi:10.1103/PhysRevLett.127.166803](https://journals.aps.org/prl/accepted/5c07cY84Lad1f76d27e830e04d9cee12fabc238fd)
 
-- *LaBH8: the first high-T<sub>c</sub> low-pressure superhydride*\
+- *LaBH<sub>8</sub>: the first high-T<sub>c</sub> low-pressure superhydride*\
 S. di Cataldo, **C. Heil**, W. von der Linden, and L. Boeri\
 [**Phys. Rev. B 104**, L020511 (2021), doi:10.1103/PhysRevB.104.L020511](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.L020511)
 
