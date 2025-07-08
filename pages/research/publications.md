@@ -18,7 +18,11 @@ Information on our published work can also be obtained via
 ## Publications and preprints
 in chronological order (newest first)
 
-- *Prediction and Synthesis of Mg4Pt3H6: A Metallic Complex Transition Metal Hydride Stabilized at Ambient Pressure*\
+- *Vacancy-free cubic superconducting NbN enabled by quantum anharmonicity*\
+E. Kogler, M. R. Sahoo, C.-N. Tsai, F. Jöbstl, R. Lucrezi, P. I. C. Cooke, B. Kunert, R. Resel, C. J. Pickard, M. N. Julian, R. P. Prasankumar, M. I. Hussein, and **C. Heil**
+[**arXiv:2507.03417 cond-mat**](https://arxiv.org/abs/2507.03417)
+
+- *Prediction and Synthesis of Mg<sub>4</sub>Pt<sub>3</sub>H<sub>6</sub>: A Metallic Complex Transition Metal Hydride Stabilized at Ambient Pressure*\
 W. Lu, M. J. Hutcheon, M. F. Hansen, K. Dolui, S. Sinha, M. R. Sahoo, C. J. Pickard, **C. Heil**, A. Pakhomova, M. Mezouar, D. Daisenberger, S. Chariton, V. Prakapenka, M. N. Julian, R. P. Prasankumar, and T. A. Strobel\
 [**arXiv:2505.22546 cond-mat**](https://arxiv.org/abs/2505.22546)
 
@@ -30,7 +34,7 @@ A. Simon, R. Foster, M. Sahoo, J. Shi, E. Batson, F. Incalza, **C. Heil**, and K
 E. Kogler, D. Spath, R. Lucrezi, H. Mori, Z. Zhu, Z. Li, E. R. Margine, and **C. Heil**\
 [**Comput. Phys. Commun. 315**, 109720 (2025)](https://doi.org/10.1016/j.cpc.2025.109720)
 
-- *Synthesis of Mg2IrH5: A potential pathway to high-Tc hydride superconductivity at ambient pressure*\
+- *Synthesis of Mg2IrH5: A potential pathway to high-T<sub>c</sub> hydride superconductivity at ambient pressure*\
 M. F. Hansen, L. J. Conway, K. Dolui, **C. Heil**, C. J. Pickard, A. Pakhamova, M. Mezouar, M. Kunz, R. P. Prasankumar, and T. A. Strobel\
 [**Phys. Rev. B 110**, 214513 (2024), doi:10.1103/PhysRevB.110.214513](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.214513)
 
@@ -70,15 +74,15 @@ R. Lucrezi, E. Kogler, S. Di Cataldo, M. Aichhorn, L. Boeri, and **C. Heil**\
 P. P. Ferreira, L. J. Conway, A. Cucciari, S. Di Cataldo, F. Giannessi, E. Kogler, L. T. F. Eleno, C. J. Pickard, **C. Heil**, and L. Boeri\\
 [**Nat. Commun. 14,** 5367 (2023), doi:10.1038/s41467-023-41005-2](https://www.nature.com/articles/s41467-023-41005-2)
 
-- *Superconductivity in Te-deficient ZrTe2*\
+- *Superconductivity in Te-deficient ZrTe<sub>2</sub>*\
 L. E. Correa, P. P. Ferreira, L. R. de Faria, V. M. Fim, M. S. da Luz, M. S. Torikachvili, **C. Heil**, L. T. F. Eleno, and A. J. S. Machado\
 [**_J. Phys. Chem. C_** 2023, 127, 10, 5162–5168, doi:10.1021/acs.jpcc.2c0883](https://doi.org/10.1021/acs.jpcc.2c08836)
 
-- *In-silico synthesis of lowest-pressure high-Tc ternary superhydrides*\
+- *In-silico synthesis of lowest-pressure high-T<sub>c</sub> ternary superhydrides*\
 R. Lucrezi, S. di Cataldo, W. von der Linden, L. Boeri, and **C. Heil**\
 [**npj Comp. Mat. 8**, 119 (2022), doi:10.1038/s41524-022-00801-y](https://www.nature.com/articles/s41524-022-00801-y)
 
-- *Intrinsic and doping-enhanced superconductivity in monolayer 1H-TaS2: Critical role of charge ordering and spin-orbit coupling*\
+- *Intrinsic and doping-enhanced superconductivity in monolayer 1H-TaS<sub>2</sub>: Critical role of charge ordering and spin-orbit coupling*\
 C.-S. Lian, **C. Heil**, X. Liu, C. Si, F. Giustino, and W. Duan\
 [**Phys. Rev. B 105**, L180505 (2022), doi:10.1103/PhysRevB.105.L180505](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.L180505)
 
@@ -90,11 +94,11 @@ L. Boeri, R.G. Hennig, P.J. Hirschfeld, G. Profeta, A. Sanna, E. Zurek, W.E. Pic
 C. Trainer, C.M. Yim, **C. Heil**, L.S. Farrar, V. Tsurkan, A. Loidl, and P. Wahl\
 [**Phys. Rev. Lett.** **127**, 166803 (2021), doi:10.1103/PhysRevLett.127.166803](https://journals.aps.org/prl/accepted/5c07cY84Lad1f76d27e830e04d9cee12fabc238fd)
 
-- *LaBH8: the first high-Tc low-pressure superhydride*\
+- *LaBH8: the first high-T<sub>c</sub> low-pressure superhydride*\
 S. di Cataldo, **C. Heil**, W. von der Linden, and L. Boeri\
 [**Phys. Rev. B 104**, L020511 (2021), doi:10.1103/PhysRevB.104.L020511](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.L020511)
 
-- *Strain-Stabilized (π,π) Order at the Surface of Fe1+xTe*\
+- *Strain-Stabilized (π,π) Order at the Surface of Fe<sub>1+x</sub>Te*\
 C.M. Yim, S.N. Panja, C. Trainer, C. Topping, **C. Heil**, A.S. Gibbs, O.V. Magdysyuk, V. Tsurkan, A. Loidl, A.W. Rost, and P. Wahl\
 [**Nano Lett. 21**, 7, 2786 (2021), doi: 10.1021/acs.nanolett.0c04821](https://pubs.acs.org/doi/full/10.1021/acs.nanolett.0c04821)
 
@@ -102,11 +106,11 @@ C.M. Yim, S.N. Panja, C. Trainer, C. Topping, **C. Heil**, A.S. Gibbs, O.V. Magd
 R. Lucrezi and **C. Heil**\
 [**J. Phys.: Condens. Matter 33,** 174001 (2021), doi: 10.1088/1361-648X/abda7a](https://iopscience.iop.org/article/10.1088/1361-648X/abda7a)
 
-- *Magnetic surface reconstruction in the van-der-Waals antiferromagnet Fe1+xTe*\
+- *Magnetic surface reconstruction in the van-der-Waals antiferromagnet Fe<sub>1+x</sub>Te*\
 C. Trainer, M. Songvilay, N. Qureshi, A. Stunault, C. M. Yim, E. E. Rodriguez, **C. Heil**, V. Tsurkan, A. Loidl, P. Wahl, and C. Stock\
 [**Phys. Rev. B 103**, 024406 (2021), doi:10.1103/PhysRevB.103.024406](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.024406)
 
-- *Electronic, vibrational, and electron-phonon coupling properties in SnSe2 and SnS2 under pressure*\
+- *Electronic, vibrational, and electron-phonon coupling properties in SnSe<sub>2</sub> and SnS<sub>2</sub> under pressure*\
 G. P. Kafle, **C. Heil**, H. Paudyal, and E. R. Margine\
 [**J. Mater. Chem. C 8** (46), 16404, 2020, doi: 10.1039/D0TC04356G](https://pubs.rsc.org/en/content/articlelanding/2020/TC/D0TC04356G#!divAbstract)
 
@@ -114,11 +118,11 @@ G. P. Kafle, **C. Heil**, H. Paudyal, and E. R. Margine\
 F. Giustino, M. Bibes, J. H. Lee, F. Trier, R. Valentí, S. M. Winter, Y.-W. Son, L. Taillefer, **C. Heil**, A. I. Figueroa, B. Plaçais, Q. Wu, O. V. Yazyev, E. P. A. M. Bakkers, J. Nygård, P. Forn-Díaz, S. de Franceschi, L. E. F. Foa Torres, J. McIver, A. Kumar, T. Low, R. Galceran, S. O. Valenzuela, M. V. Costache, A. Manchon., E.-A. Kim, G. R. Schleder, A. Fazzio, and S. Roche\
 [**JPhys. Materials 3,** 042006, doi: 10.1088/2515-7639/abb74e](https://iopscience.iop.org/article/10.1088/2515-7639/abb74e)
 
-- *Electronic structure and superconductivity of the non-centrosymmetric Sn4As3*\
+- *Electronic structure and superconductivity of the non-centrosymmetric Sn<sub>4</sub>As<sub>3</sub>*\
 C. A. Marques, M. J. Neat, C. M. Yim, M. D. Watson, **C. Heil**, K. S. Pervakov, V. A. Vlasenko, V. M. Pudalov, A.V. Muratov, T. K. Kim, and P. Wahl\
 [**New J. Phys. 22**, 063049 (2020)](https://iopscience.iop.org/article/10.1088/1367-2630/ab890a#artAbst)
 
-- *Coexistence of Superconductivity with Enhanced Charge Density Wave Order in the Two-Dimensional Limit of TaSe2*\
+- *Coexistence of Superconductivity with Enhanced Charge Density Wave Order in the Two-Dimensional Limit of TaSe<sub>2</sub>*\
 C.-S. Lian, **C. Heil**, X. Liu, C. Si, F. Giustino, and W. Duan\
 [**J. Phys. Chem. Lett. 2019**, 10, 14, 4076-4081](https://pubs.acs.org/doi/10.1021/acs.jpclett.9b01480)
 
@@ -130,11 +134,11 @@ C.-S. Lian, **C. Heil**, X. Liu, C. Si, F. Giustino, and W. Duan\
 C. Trainer, C. M. Yim, **C. Heil**, F. Giustino, C. Croitori, V. Tsurkan, A. Loidl, E. E. Rodriguez, C. Stock, and P. Wahl\
 [**Sci. Adv. 5**, 3 (2019) eaav3478](http://advances.sciencemag.org/content/5/3/eaav3478)
 
-- *Quasiparticle GW band structures and Fermi surfaces of bulk and monolayer NbS2*\
+- *Quasiparticle GW band structures and Fermi surfaces of bulk and monolayer NbS<sub>2</sub>*\
 **C. Heil**, M. Schlipf, and F. Giustino\
 [**Phys. Rev. B 98**, 075120 (2018)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.075120)
 
-- *Unusual Pressure-Induced Periodic Lattice Distortion in SnSe2*\
+- *Unusual Pressure-Induced Periodic Lattice Distortion in SnSe<sub>2</sub>*\
 J. Ying, H. Paudyal, **C. Heil**, X.-J. Chen, V. V. Struzhkin, and E. R. Margine\
 [**Phys. Rev. Lett. 121**, 027003 (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.027003)
 
@@ -142,11 +146,11 @@ J. Ying, H. Paudyal, **C. Heil**, X.-J. Chen, V. V. Struzhkin, and E. R. Margine
 **C. Heil**, G. B. Bachelet, and L. Boeri\
 [**Phys. Rev. B 97**, 214510 (2018)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.97.214510)
 
-- *Origin of Superconductivity and Latent Charge Density Wave in NbS2*\
+- *Origin of Superconductivity and Latent Charge Density Wave in NbS<sub>2</sub>*\
 **C. Heil**, S. Poncé, H. Lambert, M. Schlipf, E. R. Margine, and F. Giustino\
 [**Phys. Rev. Lett. 119**, 087003 (2017)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.087003)
 
-- *Search for high-Tc conventional superconductivity at megabar pressures in the lithium-sulfur system*\
+- *Search for high-T<sub>c</sub> conventional superconductivity at megabar pressures in the lithium-sulfur system*\
 C. Kokail, **C. Heil**, and L. Boeri\
 [**Phys. Rev. B 94**, 060502(R) (2016)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.060502)
 
@@ -158,7 +162,7 @@ J.A. Flores-Livas, M. Amsler, **C. Heil**, A. Sanna, L. Boeri, G. Profeta, C. Wo
 **C. Heil** and L. Boeri\
 [**Phys. Rev. B 92**, 060508(R) (2015)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.060508)
 
-- *Effect of the iron valence in the two types of layers in LiFeO2Fe2Se2*\
+- *Effect of the iron valence in the two types of layers in LiFeO<sub>2</sub>Fe<sub>2</sub>Se<sub>2</sub>*\
 **C. Heil**, L. Boeri, H. Sormann, W. von der Linden, and M. Aichhorn\
 [**Phys. Rev. B 90**, 165122 (2014)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.90.165122)
 
