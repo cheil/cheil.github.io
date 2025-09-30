@@ -3,7 +3,7 @@ title: New preprint announcement
 description: Nevanlinna Analytic Continuation for Migdal-Eliashberg Theory
 background:
   img: "../../../assets/theme/images/NAC_preprint.png"
-  by: Tim Strobel
+  by: Daniel Khodachenko
 author: Christoph Heil
 # tags: []
 comments: true

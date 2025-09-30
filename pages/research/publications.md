@@ -18,17 +18,21 @@ Information on our published work can also be obtained via
 ## Publications and preprints
 in chronological order (newest first)
 
+- *Stability and Superconductivity of Ternary Polyhydrides*\
+D. V. Semenok, D. Zhou, W. Chen, A. G. Kvashnin, A. V. Sadakov, T. Helm, P. N. Ferreira, **C. Heil**, V. M. Pudalov, I. A. Troyan, V. V. Struzhkin\
+[**arXiv:2509.22877 cond-mat**](https://arxiv.org/abs/2509.22877)
+
 - *Vacancy-free cubic superconducting NbN enabled by quantum anharmonicity*\
 E. Kogler, M. R. Sahoo, C.-N. Tsai, F. Jöbstl, R. Lucrezi, P. I. C. Cooke, B. Kunert, R. Resel, C. J. Pickard, M. N. Julian, R. P. Prasankumar, M. I. Hussein, and **C. Heil**\
 [**arXiv:2507.03417 cond-mat**](https://arxiv.org/abs/2507.03417)
 
-- *Prediction and Synthesis of Mg<sub>4</sub>Pt<sub>3</sub>H<sub>6</sub>: A Metallic Complex Transition Metal Hydride Stabilized at Ambient Pressure*\
-W. Lu, M. J. Hutcheon, M. F. Hansen, K. Dolui, S. Sinha, M. R. Sahoo, C. J. Pickard, **C. Heil**, A. Pakhomova, M. Mezouar, D. Daisenberger, S. Chariton, V. Prakapenka, M. N. Julian, R. P. Prasankumar, and T. A. Strobel\
-[**arXiv:2505.22546 cond-mat**](https://arxiv.org/abs/2505.22546)
-
 - *Ab initio modeling of single-photon detection in superconducting nanowires*\
 A. Simon, R. Foster, M. Sahoo, J. Shi, E. Batson, F. Incalza, **C. Heil**, and K. K. Berggren\
 [**arXiv:2501.13791 cond-mat**](https://arxiv.org/abs/2501.13791)
+
+- *Prediction and synthesis of Mg<sub>4</sub>Pt<sub>3</sub>H<sub>6</sub>: A superconducting complex transition metal hydride stabilized at ambient pressure*\
+W. Lu, M. J. Hutcheon, M. F. Hansen, K. Dolui, S. Sinha, M. R. Sahoo, C. J. Pickard, **C. Heil**, A. Pakhomova, M. Mezouar, D. Daisenberger, S. Chariton, V. Prakapenka, M. N. Julian, R. P. Prasankumar, and T. A. Strobel\
+[**Phys. Rev. B 112**, 094513 (2025), doi:10.1103/PhysRevB.112.094513](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.112.094513)
 
 - *IsoME: Streamlining High-Precision Eliashberg Calculations*\
 E. Kogler, D. Spath, R. Lucrezi, H. Mori, Z. Zhu, Z. Li, E. R. Margine, and **C. Heil**\
