@@ -45,15 +45,15 @@ If you prefer an English-language interview, I also joined the [Bridge the Gap](
 
 ## Fellowship, Grants, and Patents
 
-
+-    FWF stand-alone project Computational Modeling of Real-World Alloy Superconductors, TU Graz, 2025-2029
 -    DARPA SynQuaNon (2023-2025)
+-    External research project Computational Modelling of Superconducting Structures and Material Systems funded by Intellectual Ventures, 2020 – 2028
 -    FWF stand-alone project Transition Metal Chalcogenides under Extreme Pressures, TU Graz, 2019 – 2023
--    External research project Computational Modelling of Superconducting Structures and Material Systems funded by Intellectual Ventures, 2020 – 2023
--    Patent High Temperature Superconducting Structures, USPTO 16/789143, 2020
+-    Patent High Temperature Superconducting Structures, USPTO 16/789143, 2025
 -    FWF Schrödinger Fellowship, University of Oxford, TU Graz, 2016 – 2019
 
 ## Teaching
-In the course of my employment at the TU Graz I have taught courses on
+In the course of my employment at the TU Graz I have taught (or am currently teaching) courses on
 
 -    Differential and Integral Calculus
 -    Analytical Mechanics
