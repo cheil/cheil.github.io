@@ -26,9 +26,9 @@ D. V. Semenok, D. Zhou, W. Chen, A. G. Kvashnin, A. V. Sadakov, T. Helm, P. N. F
 E. Kogler, M. R. Sahoo, C.-N. Tsai, F. Jöbstl, R. Lucrezi, P. I. C. Cooke, B. Kunert, R. Resel, C. J. Pickard, M. N. Julian, R. P. Prasankumar, M. I. Hussein, and **C. Heil**\
 [**arXiv:2507.03417 cond-mat**](https://arxiv.org/abs/2507.03417)
 
-- *Ab initio modeling of single-photon detection in superconducting nanowires*\
+- *Ab initio modeling of single-photon detection in superconducting detectors and qubits*\
 A. Simon, R. Foster, M. Sahoo, J. Shi, E. Batson, F. Incalza, **C. Heil**, and K. K. Berggren\
-[**arXiv:2501.13791 cond-mat**](https://arxiv.org/abs/2501.13791)
+[**Phys. Rev. B 112**, 174512 (2025), doi:10.1103/3m2k-mzr6](https://journals.aps.org/prb/abstract/10.1103/3m2k-mzr6)
 
 - *Prediction and synthesis of Mg<sub>4</sub>Pt<sub>3</sub>H<sub>6</sub>: A superconducting complex transition metal hydride stabilized at ambient pressure*\
 W. Lu, M. J. Hutcheon, M. F. Hansen, K. Dolui, S. Sinha, M. R. Sahoo, C. J. Pickard, **C. Heil**, A. Pakhomova, M. Mezouar, D. Daisenberger, S. Chariton, V. Prakapenka, M. N. Julian, R. P. Prasankumar, and T. A. Strobel\
