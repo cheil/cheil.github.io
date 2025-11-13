@@ -18,6 +18,10 @@ Information on our published work can also be obtained via
 ## Publications and preprints
 in chronological order (newest first)
 
+- *First-principles evidence for conventional superconductivity in a quasicrystal approximant*\
+P. N. Ferreira, R. Lucrezi, S. Lee, L. Nathwani, M. Julian, R. P. Prasankumar, W. E. Pickett, C. J. Pickard, P. Kim, and **C. Heil**\
+[**arXiv:2511.09224 cond-mat**](https://arxiv.org/abs/2511.09224)
+
 - *Stability and Superconductivity of Ternary Polyhydrides*\
 D. V. Semenok, D. Zhou, W. Chen, A. G. Kvashnin, A. V. Sadakov, T. Helm, P. N. Ferreira, **C. Heil**, V. M. Pudalov, I. A. Troyan, V. V. Struzhkin\
 [**arXiv:2509.22877 cond-mat**](https://arxiv.org/abs/2509.22877)
