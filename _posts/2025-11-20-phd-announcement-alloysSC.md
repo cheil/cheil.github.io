@@ -9,7 +9,7 @@ author: Christoph Heil
 comments: true
 ---
 
-We are happy to announce a **fully funded PhD position** in **Computational Modeling of Alloys** in our group at the Institute of Theoretical Physics / Computational Physics at TU Graz.
+We are happy to announce a **fully funded PhD position** in **Computational Modeling of Alloys** in our group at the Institute of Theoretical Physics / Computational Physics at TU Graz. (We'll have a related postdoc opening soon as well.)
 
 The project explores how we can use advanced simulation methods to understand and predict the behaviour of complex alloy systems — from their atomic structure to their macroscopic properties, as discribed in more detail [here](https://cheil.github.io/blog/2025/new-project-alloyssc/). The successful candidate will join a collaborative and friendly research environment, work with modern HPC resources, and interact with partners across materials science and theoretical physics.
 
@@ -24,8 +24,8 @@ A motivated candidate with a Master’s degree in Physics, Materials Science, Co
 
 **How to apply**  
 Applications must be submitted **exclusively via the TU Graz job portal**:  
-https://jobs.tugraz.at/en/jobs/dbbbbb43-bcb2-7ca7-20e9-6903345d8630
+[Apply here](https://jobs.tugraz.at/en/jobs/dbbbbb43-bcb2-7ca7-20e9-6903345d8630)
 
-If you have questions about the position or the research environment, feel free to get in touch.
+If you have questions about the position or the research environment, feel free to get in touch. 
 
 — Christoph Heil
