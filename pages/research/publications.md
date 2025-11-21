@@ -28,7 +28,7 @@ E. Kogler, M. R. Sahoo, C.-N. Tsai, F. Jöbstl, R. Lucrezi, P. I. C. Cooke, B. K
 
 - *Stability and Superconductivity of Ternary Polyhydrides*\
 D. V. Semenok, D. Zhou, W. Chen, A. G. Kvashnin, A. V. Sadakov, T. Helm, P. N. Ferreira, **C. Heil**, V. M. Pudalov, I. A. Troyan, V. V. Struzhkin\
-[**Ann. Phys. 2025**, e00467](https://doi.org/10.1002/andp.202500467)
+[**Ann. Phys. 2025**, e00467, doi:10.1002/andp.202500467](https://doi.org/10.1002/andp.202500467)
 
 - *Ab initio modeling of single-photon detection in superconducting detectors and qubits*\
 A. Simon, R. Foster, M. Sahoo, J. Shi, E. Batson, F. Incalza, **C. Heil**, and K. K. Berggren\
