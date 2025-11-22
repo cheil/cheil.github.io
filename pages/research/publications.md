@@ -24,7 +24,7 @@ P. N. Ferreira, R. Lucrezi, S. Lee, L. Nathwani, M. Julian, R. P. Prasankumar, W
 
 - *Vacancy-free cubic superconducting NbN enabled by quantum anharmonicity*\
 E. Kogler, M. R. Sahoo, C.-N. Tsai, F. Jöbstl, R. Lucrezi, P. I. C. Cooke, B. Kunert, R. Resel, C. J. Pickard, M. N. Julian, R. P. Prasankumar, M. I. Hussein, and **C. Heil**\
-[**arXiv:2507.03417 cond-mat**](https://arxiv.org/abs/2507.03417)
+[**Commun. Mater. (2025)**, doi:10.1038/s43246-025-01004-w](https://doi.org/10.1038/s43246-025-01004-w)
 
 - *Stability and Superconductivity of Ternary Polyhydrides*\
 D. V. Semenok, D. Zhou, W. Chen, A. G. Kvashnin, A. V. Sadakov, T. Helm, P. N. Ferreira, **C. Heil**, V. M. Pudalov, I. A. Troyan, V. V. Struzhkin\
