@@ -23,7 +23,7 @@ P. N. Ferreira, R. Lucrezi, S. Lee, L. Nathwani, M. Julian, R. P. Prasankumar, W
 [**arXiv:2511.09224 cond-mat**](https://arxiv.org/abs/2511.09224)
 
 - *Superconducting High-Pressure Forms of LiSi and LiGe Featuring Square Planar Nets*\
-D. C. Beyer, K. Spektor, R. Lucrezi, P. N. Ferreira, **C. Heil**, S. Bhat, R. Farla, V. Baran, M. A. Karlsen, M. Etter, V. Stephan, M. Boerner, C. Owen, A. J. Morris, H. Kohlmann, U. Häussermann\
+D. C. Beyer, K. Spektor, R. Lucrezi, P. N. Ferreira, **C. Heil**, S. Bhat, R. Farla, V. Baran, M. A. Karlsen, M. Etter, V. Stephan, M. Boerner, C. Owen, A. J. Morris, H. Kohlmann, and U. Häussermann\
 [**Chem. Mater. (2026)**, doi:10.1021/acs.chemmater.5c02061](https://doi.org/10.1021/acs.chemmater.5c02061)
 
 - *Investigation of the La–Al–H and La–Si–H Systems at High Pressures*\
