@@ -4,7 +4,7 @@
   role: former Postdoc researcher
   image: assets/theme/images/pnf.jpg
   description: >
-    now own Project leader at TU Graz
+   own Project leader at TU Graz
   orcid: 0000-0002-1135-0570
   researchgate: Pedro-Nunes-Ferreira
   googlescholar: znT2QDIAAAAJ
@@ -12,14 +12,14 @@
 - name: Ethan P. B. Shapera
   role: former Postdoc researcher
   description: >
-    now at University of Buffalo in the group of [Eva Zurek](https://www.acsu.buffalo.edu/~ezurek/)
+    Postdoc at University of Buffalo in the group of [Eva Zurek](https://www.acsu.buffalo.edu/~ezurek/)
   orcid: 0000-0002-2736-1565
   researchgate: Ethan-Shapera
 
 - name: Roman Lucrezi
   role: former PhD student
   description: >
-    now at Stockholm University in the group of [Ulrich Haeussermann](https://www.su.se/english/research/research-groups/ulrich-h%C3%A4ussermann-s-group)
+    Postdoc at Stockholm University in the group of [Ulrich Haeussermann](https://www.su.se/english/research/research-groups/ulrich-h%C3%A4ussermann-s-group)
   orcid: 0000-0002-3117-3735
   researchgate: Roman-Lucrezi
   googlescholar: 49crZ1wAAAAJ
@@ -28,9 +28,10 @@
   role: former Master student
     #image: assets/theme/images/anonym.jpg
   description: >
-    now at University of Vienna in the group of Reinhard Maurer
+    PhD student at University of Vienna in the group of Reinhard Maurer
 
 - name: Daniel Khodachenko
   role: former Master student
+  description: >
     PhD student at Montanuniversität Leoben
 
