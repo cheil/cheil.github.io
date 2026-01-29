@@ -22,6 +22,14 @@ in chronological order (newest first)
 P. N. Ferreira, R. Lucrezi, S. Lee, L. Nathwani, M. Julian, R. P. Prasankumar, W. E. Pickett, C. J. Pickard, P. Kim, and **C. Heil**\
 [**arXiv:2511.09224 cond-mat**](https://arxiv.org/abs/2511.09224)
 
+- *Superconducting High-Pressure Forms of LiSi and LiGe Featuring Square Planar Nets*\
+D. C. Beyer, K. Spektor, R. Lucrezi, P. N. Ferreira, **C. Heil**, S. Bhat, R. Farla, V. Baran, M. A. Karlsen, M. Etter, V. Stephan, M. Boerner, C. Owen, A. J. Morris, H. Kohlmann, U. Häussermann\
+[**Chem. Mater. (2026)**, doi:10.1021/acs.chemmater.5c02061](https://doi.org/10.1021/acs.chemmater.5c02061)
+
+- *Investigation of the La–Al–H and La–Si–H Systems at High Pressures*\
+D. C. Beyer, P. N. Ferreira, R. Lucrezi, L. T. F. Eleno, H. Kohlmann, **C. Heil**, M. S. Targama, V. Baran, S. Bhat, R. Farla, K. Spektor, and U. Häussermann\
+[**Inorg. Chem. (2026)**, doi:10.1021/acs.inorgchem.5c05140](https://doi.org/10.1021/acs.inorgchem.5c05140)
+
 - *Vacancy-free cubic superconducting NbN enabled by quantum anharmonicity*\
 E. Kogler, M. R. Sahoo, C.-N. Tsai, F. Jöbstl, R. Lucrezi, P. I. C. Cooke, B. Kunert, R. Resel, C. J. Pickard, M. N. Julian, R. P. Prasankumar, M. I. Hussein, and **C. Heil**\
 [**Commun. Mater. (2025)**, doi:10.1038/s43246-025-01004-w](https://doi.org/10.1038/s43246-025-01004-w)

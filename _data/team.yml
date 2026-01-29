@@ -21,14 +21,6 @@
   googlescholar: dlKEp4wAAAAJ
   email: mihir.sahoo@tugraz.at
 
-- name: Pedro Nunes Ferreira
-  role: Postdoc researcher
-  image: assets/theme/images/pnf.jpg
-  #description: >
-  orcid: 0000-0002-1135-0570
-  researchgate: Pedro-Nunes-Ferreira
-  googlescholar: znT2QDIAAAAJ
-
 - name: Eva Kogler
   role: PhD student
   image: assets/theme/images/Eva_Kogler.jpeg
@@ -39,15 +31,16 @@
   email: eva.kogler@tugraz.at
   github: evakogler
 
-
-- name: Fabian Jöbstl
-  role: Master student
-    #image: assets/theme/images/anonym.jpg
+- name: Dominik Spath
+  role: PhD student
+  #image: assets/theme/images/Dominik_Spath.jpeg
+    #description: >
+  #orcid: 0000-0003-3465-8954
+  #researchgate: Eva-Kogler-2
+  #googlescholar: bJzCk7cAAAAJ
+  email: dominik.spath@tugraz.at
+  #github: evakogler
 
 - name: Michael Steiner
   role: Master student
-    #image: assets/theme/images/anonym.jpg
-
-- name: Stefanie Strobl
-  role: Bachelor student
     #image: assets/theme/images/anonym.jpg

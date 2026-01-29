@@ -1,5 +1,14 @@
 # Project team members listed below will appear on the /team page
 
+- name: Pedro Nunes Ferreira
+  role: former Postdoc researcher
+  image: assets/theme/images/pnf.jpg
+  description: >
+    now own Project leader at TU Graz
+  orcid: 0000-0002-1135-0570
+  researchgate: Pedro-Nunes-Ferreira
+  googlescholar: znT2QDIAAAAJ
+
 - name: Ethan P. B. Shapera
   role: former Postdoc researcher
   description: >
@@ -15,8 +24,11 @@
   researchgate: Roman-Lucrezi
   googlescholar: 49crZ1wAAAAJ
 
-- name: Dominik Spath
+- name: Fabian Jöbstl
   role: former Master student
+    #image: assets/theme/images/anonym.jpg
+  description: >
+    now at University of Vienna in the group of Reinhard Maurer
 
 - name: Daniel Khodachenko
   role: former Master student
