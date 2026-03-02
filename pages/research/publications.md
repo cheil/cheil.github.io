@@ -18,6 +18,14 @@ Information on our published work can also be obtained via
 ## Publications and preprints
 in chronological order (newest first)
 
+- *Inverse Isotope Effect in the Ternary Perovskite Hydride SrPdH/D<sub>2.9</sub>: A Signature of Quantum Zero-Point Fluctuations*\
+W. Lu, M. Sahoo, R. Lucrezi, M. J. Hutcheon, S. Sinha, P. N. Ferreira, C. J. Pickard, Q. Zhang, M. N. Julian, R. P. Prasankumar, **C. Heil**, and T. A. Strobel\
+[**arXiv:2602.23691 cond-mat.supr-con**](https://arxiv.org/abs/2602.23691)
+
+- *High-pressure stabilization of Mg<sub>2</sub>IrH<sub>7</sub>: Structural proximity to high-*T*<sub>c</sub> superconductivity*\
+S. Sinha, W. Lu, M. F. Hansen, M. J. Hutcheon, T. W. Bontke, L. J. Conway, K. Dolui, C. J. Pickard, **C. Heil**, P. A. Guńka, S. Chariton, V. Prakapenka, L. Deng, C.-W. Chu, M. N. Julian, R. P. Prasankumar, and T. A. Strobel\
+[**arXiv:2602.23675 cond-mat.supr-con**](https://arxiv.org/abs/2602.23675)
+
 - *First-principles evidence for conventional superconductivity in a quasicrystal approximant*\
 P. N. Ferreira, R. Lucrezi, S. Lee, L. Nathwani, M. Julian, R. P. Prasankumar, W. E. Pickett, C. J. Pickard, P. Kim, and **C. Heil**\
 [**arXiv:2511.09224 cond-mat**](https://arxiv.org/abs/2511.09224)

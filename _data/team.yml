@@ -21,6 +21,14 @@
   googlescholar: dlKEp4wAAAAJ
   email: mihir.sahoo@tugraz.at
 
+- name: Ralf Meyer
+  role: Postdoc researcher
+    #description: >
+  image: assets/theme/images/Ralf_Meyer.jpg  
+  orcid: 0000-0003-2236-0261
+  googlescholar: dmOltKQAAAAJ
+  email: ralf.meyer@tugraz.at
+
 - name: Eva Kogler
   role: PhD student
   image: assets/theme/images/Eva_Kogler.jpeg
