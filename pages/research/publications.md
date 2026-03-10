@@ -30,6 +30,10 @@ S. Sinha, W. Lu, M. F. Hansen, M. J. Hutcheon, T. W. Bontke, L. J. Conway, K. Do
 P. N. Ferreira, R. Lucrezi, S. Lee, L. Nathwani, M. Julian, R. P. Prasankumar, W. E. Pickett, C. J. Pickard, P. Kim, and **C. Heil**\
 [**arXiv:2511.09224 cond-mat**](https://arxiv.org/abs/2511.09224)
 
+- *The path to room-temperature superconductivity: A programmatic approach*\
+R. P. Prasankumar, M. Julian, M. Hutcheon, and **C. Heil**, L. Deng, D. Basov, C.-W. Chu, R. Comin, P. Kim, B. Meredig, C. Pickard, W. E. Pickett, T. Strobel, S. Wolf, E. Zurek, and N. Myhrvold\
+[**PNAS 123**, 11 (2026), doi:10.1073/pnas.2520324123](https://doi.org/10.1073/pnas.2520324123)
+
 - *Superconducting High-Pressure Forms of LiSi and LiGe Featuring Square Planar Nets*\
 D. C. Beyer, K. Spektor, R. Lucrezi, P. N. Ferreira, **C. Heil**, S. Bhat, R. Farla, V. Baran, M. A. Karlsen, M. Etter, V. Stephan, M. Boerner, C. Owen, A. J. Morris, H. Kohlmann, and U. Häussermann\
 [**Chem. Mater. (2026)**, doi:10.1021/acs.chemmater.5c02061](https://doi.org/10.1021/acs.chemmater.5c02061)
