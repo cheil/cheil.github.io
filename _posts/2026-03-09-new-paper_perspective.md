@@ -1,6 +1,6 @@
 ---
 title: Paper published in PNAS
-description: The path to room-temperature superconductivity: A programmatic approach
+description: The path to room-temperature superconductivity - A programmatic approach
 background:
   img: "../../../assets/theme/images/PNASperspective.png"
   by: Rohit Prasankumar
