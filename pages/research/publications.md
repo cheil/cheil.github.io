@@ -18,6 +18,15 @@ Information on our published work can also be obtained via
 ## Publications and preprints
 in chronological order (newest first)
 
+
+- *Ultrafast dynamics and light-induced superconductivity from first principles*\
+A. Simon, J. Shi, E. Kogler, R. Foster, D. Spath, E. Batson, P. N. Ferreira, M. Sahoo, R. Prasankumar, P. D. Keathley, K. K. Berggren, and **C. Heil**\
+[**arXiv:2603.18182 cond-mat.supr-con**](https://arxiv.org/abs/2603.18182)
+
+- *Fast Real-Axis Eliashberg Calculations: Full-bandwidth solutions beyond the constant density of states approximation*\
+A. Simon, J. Shi, D. Spath, E. Kogler, R. Foster, E. Batson, P. N. Ferreira, M. Sahoo, P. D. Keathley, W. E. Pickett, R. Prasankumar, K. K. Berggren, and **C. Heil**\
+[**arXiv:2603.18199 cond-mat.supr-con**](https://arxiv.org/abs/2603.18199)
+
 - *Inverse Isotope Effect in the Ternary Perovskite Hydride SrPdH/D<sub>2.9</sub>: A Signature of Quantum Zero-Point Fluctuations*\
 W. Lu, M. Sahoo, R. Lucrezi, M. J. Hutcheon, S. Sinha, P. N. Ferreira, C. J. Pickard, Q. Zhang, M. N. Julian, R. P. Prasankumar, **C. Heil**, and T. A. Strobel\
 [**arXiv:2602.23691 cond-mat.supr-con**](https://arxiv.org/abs/2602.23691)
