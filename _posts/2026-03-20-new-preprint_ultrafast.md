@@ -1,5 +1,5 @@
 ---
-title: New preprint announcement  
+title: Two new preprints  
 description: First-principles framework for ultrafast dynamics and light-induced superconductivity in conventional superconductors
 background:  
   img: "../../../assets/theme/images/ultrafast_Fig1.png"  
