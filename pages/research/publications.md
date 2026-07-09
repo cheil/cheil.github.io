@@ -19,6 +19,10 @@ Information on our published work can also be obtained via
 in chronological order (newest first)
 
 
+- *Ab initio thermodynamic statistical modeling of the miscibility gap and the metal–insulator transition in SrTi<sub>1-x</sub>V<sub>x</sub>O<sub>3</sub>*\
+L. Wibmer, C. Ostendorf, D. Spath, **C. Heil**, P. N. Ferreira, and M. Aichhorn\
+[**arXiv:2607.07067 cond-mat.str-el**](https://arxiv.org/abs/2607.07067)
+
 - *Ultrafast dynamics and light-induced superconductivity from first principles*\
 A. Simon, J. Shi, E. Kogler, R. Foster, D. Spath, E. Batson, P. N. Ferreira, M. Sahoo, R. Prasankumar, P. D. Keathley, K. K. Berggren, and **C. Heil**\
 [**arXiv:2603.18182 cond-mat.supr-con**](https://arxiv.org/abs/2603.18182)
