@@ -19,6 +19,10 @@ Information on our published work can also be obtained via
 in chronological order (newest first)
 
 
+- *Quantum disorder engineering in superconducting Ti(O,N) thin films*\
+F. Li, S. Aamlid, O. A. Dicks, M.-G. Han, G. Levy, R. Sutarto, Z. Chen, C. Liu, H.-H. Kung, S. Godin, B. A. Davidson, Z. G. Cheng, A. Damascelli, Y. Zhu, **C. Heil**, I. Elfimov, G. A. Sawatzky, and K. Zou\
+[**Phys. Rev. B 114**, 065415 (2026), doi:10.1103/cjgd-fjh2](https://doi.org/10.1103/cjgd-fjh2)
+
 - *Ab initio thermodynamic statistical modeling of the miscibility gap and the metal–insulator transition in SrTi<sub>1-x</sub>V<sub>x</sub>O<sub>3</sub>*\
 L. Wibmer, C. Ostendorf, D. Spath, **C. Heil**, P. N. Ferreira, and M. Aichhorn\
 [**arXiv:2607.07067 cond-mat.str-el**](https://arxiv.org/abs/2607.07067)
