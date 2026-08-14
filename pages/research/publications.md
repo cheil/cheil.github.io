@@ -19,6 +19,10 @@ Information on our published work can also be obtained via
 in chronological order (newest first)
 
 
+- *Yttrium Superhydrides Revisited: Advanced Experimental and Theoretical Studies of YH<sub>6</sub>, YH<sub>9</sub> and YH<sub>10</sub>*\
+D. V. Semenok, P. N. Ferreira, D. Zhou, F. Jöbstl, A. V. Sadakov, K. S. Pervakov, B. I. Massalimov, T. Helm, R. Akashi, V. M. Pudalov, V. V. Struzhkin, **C. Heil**, and I. A. Troyan\
+[**arXiv:2608.11428 cond-mat.supr-con**](https://arxiv.org/abs/2608.11428)
+
 - *Ab initio thermodynamic statistical modeling of the miscibility gap and the metal–insulator transition in SrTi<sub>1-x</sub>V<sub>x</sub>O<sub>3</sub>*\
 L. Wibmer, C. Ostendorf, D. Spath, **C. Heil**, P. N. Ferreira, and M. Aichhorn\
 [**arXiv:2607.07067 cond-mat.str-el**](https://arxiv.org/abs/2607.07067)
