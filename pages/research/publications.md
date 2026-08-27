@@ -45,7 +45,7 @@ S. Sinha, W. Lu, M. F. Hansen, M. J. Hutcheon, T. W. Bontke, L. J. Conway, K. Do
 
 - *First-principles evidence for conventional superconductivity in a quasicrystal approximant*\
 P. N. Ferreira, R. Lucrezi, S. Lee, L. Nathwani, M. Julian, R. P. Prasankumar, W. E. Pickett, C. J. Pickard, P. Kim, and **C. Heil**\
-[**arXiv:2511.09224 cond-mat**](https://arxiv.org/abs/2511.09224)
+[**Phys. Rev. B 114**, 074512 (2026), doi:10.1103/qx58-z229](https://doi.org/10.1103/qx58-z229)
 
 - *Quantum disorder engineering in superconducting Ti(O,N) thin films*\
 F. Li, S. Aamlid, O. A. Dicks, M.-G. Han, G. Levy, R. Sutarto, Z. Chen, C. Liu, H.-H. Kung, S. Godin, B. A. Davidson, Z. G. Cheng, A. Damascelli, Y. Zhu, **C. Heil**, I. Elfimov, G. A. Sawatzky, and K. Zou\
