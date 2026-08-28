@@ -75,7 +75,11 @@
     }
 
     // Style captions
-    img + em {
+    // :last-child restricts this to a genuine caption (an italic line that is the
+    // last element in the paragraph). Without it, `+` — which skips text nodes —
+    // also matches the first italic in a paragraph of prose that begins with a
+    // floated image, turning a mid-sentence <em> into a centered block.
+    img + em:last-child {
       display: block;
       margin-top: 0.5rem;
       margin-bottom: 0.5rem;
