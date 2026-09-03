@@ -19,9 +19,6 @@ Information on our published work can also be obtained via
 in chronological order (newest first)
 
 
-- *Superconducting gap in covalent bismuth dihydride BiH<sub>2</sub> under extreme conditions*\
-J. Guo, D. V. Semenok, I. A. Troyan, P. N. Ferreira, D. Zhou, Y. Wang, Y. Chen, S. Chen, K. Zhang, X. Wu, S. Luther, T. Helm, A. V. Sadakov, A. T. Daniyarhodzhaev, A. S. Usoltsev, L. A. Morgun, V. M. Pudalov, **C. Heil**, V. V. Struzhkin, and X. Huang\
-[**arXiv:2505.12062 cond-mat.supr-con**](https://arxiv.org/abs/2505.12062)
 
 - *Yttrium Superhydrides Revisited: Advanced Experimental and Theoretical Studies of YH<sub>6</sub>, YH<sub>9</sub> and YH<sub>10</sub>*\
 D. V. Semenok, P. N. Ferreira, D. Zhou, F. Jöbstl, A. V. Sadakov, K. S. Pervakov, B. I. Massalimov, T. Helm, R. Akashi, V. M. Pudalov, V. V. Struzhkin, **C. Heil**, and I. A. Troyan\
@@ -46,6 +43,10 @@ W. Lu, M. Sahoo, R. Lucrezi, M. J. Hutcheon, S. Sinha, P. N. Ferreira, C. J. Pic
 - *High-pressure stabilization of Mg<sub>2</sub>IrH<sub>7</sub>: Structural proximity to high-*T*<sub>c</sub> superconductivity*\
 S. Sinha, W. Lu, M. F. Hansen, M. J. Hutcheon, T. W. Bontke, L. J. Conway, K. Dolui, C. J. Pickard, **C. Heil**, P. A. Guńka, S. Chariton, V. Prakapenka, L. Deng, C.-W. Chu, M. N. Julian, R. P. Prasankumar, and T. A. Strobel\
 [**arXiv:2602.23675 cond-mat.supr-con**](https://arxiv.org/abs/2602.23675)
+
+- *Superconducting gap in covalent bismuth dihydride BiH<sub>2</sub> under extreme conditions*\
+J. Guo, D. V. Semenok, I. A. Troyan, P. N. Ferreira, D. Zhou, Y. Wang, Y. Chen, S. Chen, K. Zhang, X. Wu, S. Luther, T. Helm, A. V. Sadakov, A. T. Daniyarhodzhaev, A. S. Usoltsev, L. A. Morgun, V. M. Pudalov, **C. Heil**, V. V. Struzhkin, and X. Huang\
+[**arXiv:2505.12062 cond-mat.supr-con**](https://arxiv.org/abs/2505.12062)
 
 - *First-principles evidence for conventional superconductivity in a quasicrystal approximant*\
 P. N. Ferreira, R. Lucrezi, S. Lee, L. Nathwani, M. Julian, R. P. Prasankumar, W. E. Pickett, C. J. Pickard, P. Kim, and **C. Heil**\
