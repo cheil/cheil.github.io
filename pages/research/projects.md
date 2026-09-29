@@ -21,7 +21,7 @@ IsoME is available as an open-source package through multiple platforms:
 - **GitHub:** [github.com/cheil/IsoME.jl](https://github.com/cheil/IsoME.jl)
 - **JuliaHub:** [juliahub.com/ui/Packages/General/IsoME](https://juliahub.com/ui/Packages/General/IsoME)
 - **Documentation:** [cheil.github.io/IsoME.jl](https://cheil.github.io/IsoME.jl/)
-- **Zenodo:** [DOI:10.5281/zenodo.14900899](https://doi.org/10.5281/zenodo.14900899)
+- **Zenodo:** [DOI:10.5281/zenodo.22964731](https://doi.org/10.5281/zenodo.22964731)
 
 Further details on the functionality and benchmark tests of IsoME are provided in the accompanying paper on [Computer Physics Communications 315, 109720 (2025)](https://doi.org/10.1016/j.cpc.2025.109720).
 

@@ -57,7 +57,7 @@ The Matsubara solver is unchanged in spirit and remains the right tool for criti
 - **GitHub:** [github.com/cheil/IsoME.jl](https://github.com/cheil/IsoME.jl)
 - **JuliaHub:** [juliahub.com/ui/Packages/General/IsoME](https://juliahub.com/ui/Packages/General/IsoME)
 - **Documentation:** [cheil.github.io/IsoME.jl](https://cheil.github.io/IsoME.jl/)
-- **Zenodo:** [DOI:10.5281/zenodo.23032473](https://doi.org/10.5281/zenodo.23032473)
+- **Zenodo:** [DOI:10.5281/zenodo.22964731](https://doi.org/10.5281/zenodo.22964731)
 
 If you use IsoME, please cite the package paper, [*IsoME: Streamlining High-Precision Eliashberg Calculations*, Comput. Phys. Commun. **315**, 109720 (2025)](https://doi.org/10.1016/j.cpc.2025.109720), and, when using the real-axis solver, [arXiv:2603.18199](https://arxiv.org/abs/2603.18199). BibTeX entries for both are in `CITATION.bib`.
 

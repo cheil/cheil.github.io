@@ -51,7 +51,7 @@ The published article includes benchmarks, methodology details, and usage exampl
 
 - **JuliaHub:** [https://juliahub.com/ui/Packages/General/IsoME](https://juliahub.com/ui/Packages/General/IsoME)  
 - **GitHub:** [https://github.com/cheil/IsoME.jl](https://github.com/cheil/IsoME.jl)  
-- **Zenodo:** [https://zenodo.org/records/14967551](https://zenodo.org/records/14967551)
+- **Zenodo:** [https://zenodo.org/records/22964731](https://zenodo.org/records/22964731)
 
 **Christoph Heil**
 

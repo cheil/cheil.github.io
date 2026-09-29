@@ -56,7 +56,7 @@ Our accompanying preprint provides an in-depth description of IsoME’s methodol
 IsoME is available at multiple platforms:
 - **JuliaHub:** [https://juliahub.com/ui/Packages/General/IsoME](https://juliahub.com/ui/Packages/General/IsoME)
 - **GitHub:** [https://github.com/cheil/IsoME.jl](https://github.com/cheil/IsoME.jl)
-- **Zenodo:** [DOI:10.5281/zenodo.14967551](https://zenodo.org/records/14967551)
+- **Zenodo:** [DOI:10.5281/zenodo.22964731](https://zenodo.org/records/22964731)
 
 We invite you to download the code, try it out, and join us in refining this tool. Your feedback, contributions, and suggestions are highly welcome!
 
