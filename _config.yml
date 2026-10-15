@@ -42,7 +42,7 @@ exclude:
   - LICENSE
   - package-lock.json
   - package.json
-  - petridish.gemspec
+  - .claude
 
 # FRONTMATTER DEFAULTS
 defaults:

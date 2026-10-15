@@ -7,6 +7,7 @@ background:
 
 permalink: /research/publications/
 toc: true
+meta_description: "Publications and preprints of the Heil Group (TU Graz) on superconductivity, electron-phonon coupling, Eliashberg theory, hydrides and ab initio materials modelling."
 ---
 
 Information on our published work can also be obtained via

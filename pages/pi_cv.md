@@ -3,6 +3,7 @@ layout: default
 title: Christoph Heil
 description: Computational Material Design @ TU Graz
 permalink: /pi_cv/
+meta_description: "Christoph Heil, Associate Professor at the Institute of Theoretical and Computational Physics, TU Graz: CV, grants, patents, teaching, outreach."
 ---
 
 <img src="../../../assets/theme/images/christoph_heil_009_full.jpg" width="1000"/>
@@ -11,7 +12,7 @@ permalink: /pi_cv/
 
 - Name: Christoph Heil
 - Nationality: Austria
-- Current Position: Associate professor in the Department of Theoretical and Computational Physics, Graz University of Technology (TU Graz)
+- Current Position: Associate professor at the Institute of Theoretical and Computational Physics, Graz University of Technology (TU Graz)
 - Habilitation in *Theoretical Physics and Computational Physics*
 
 Information on my published work can also be found here:
@@ -49,7 +50,8 @@ If you prefer an English-language interview, I also joined the [Bridge the Gap](
 -    DARPA SynQuaNon (2023-2025)
 -    External research project Computational Modelling of Superconducting Structures and Material Systems funded by Intellectual Ventures, 2020 – 2028
 -    FWF stand-alone project Transition Metal Chalcogenides under Extreme Pressures, TU Graz, 2019 – 2023
--    Patent High Temperature Superconducting Structures, USPTO 16/789143, 2025
+-    US Patent 12,284,921, *High Temperature Superconducting Structures*, granted 2025
+-    US Patent Application 18/646,508, *Quantum-Engineered Superconductor Metamaterial Devices*, filed 2024
 -    FWF Schrödinger Fellowship, University of Oxford, TU Graz, 2016 – 2019
 
 ## Teaching

@@ -2,11 +2,19 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+  {% comment %}Generic post titles ("New preprint announcement", "Paper published in ...") are prefixed with the post description (usually the paper title) so search results and link previews are informative{% endcomment %}
+  {% assign seo_title = page.title %}
+  {% if page.collection == 'posts' and page.description %}
+    {% if page.title contains 'nnouncement' or page.title contains 'ublished' or page.title contains 'ublication' or page.title contains 'reprints' %}
+      {% assign seo_title = page.description | markdownify | strip_html | strip_newlines | strip | append: ' | ' | append: page.title | strip %}
+    {% endif %}
+  {% endif %}
   {% if page.layout == 'home' %}
     <title>{{ site.title }}</title>
   {% else %}
-    <title>{{ page.title }} - {{ site.title }}</title>
+    <title>{{ seo_title }} - {{ site.title }}</title>
   {% endif %}
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
 
   {% comment %}Deprecated variables{% endcomment %} 
   {% if site.email %}
@@ -19,7 +27,9 @@
     {% assign site.social.github = site.github_username %}
   {% endif %}
 
-  {% if page.description %}
+  {% if page.meta_description %}
+    {% assign description = page.meta_description | strip %}
+  {% elsif page.description %}
     {% assign description = page.description | markdownify | strip_html | newline_to_br | split: '<br />' | first %}
   {% endif %}
   {% if description %}
@@ -39,7 +49,7 @@
 
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:type" content="{% if page.collection == 'posts' %}article{% else %}website{% endif %}">
-  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:title" content="{% if page.layout == 'home' %}{{ site.title }}{% else %}{{ seo_title }}{% endif %}">
   {% if description %}
     <meta property="og:description" content="{{ description }}">
   {% endif %}
@@ -53,13 +63,14 @@
   {% endif %}
 
   <link rel="icon" type="image/x-icon" href="{{ '/favicon.ico' | absolute_url }}">
+  <link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png' | absolute_url }}">
   <!-- Bootstrap CSS is included in main.css -->
   <link rel="stylesheet" href="{{ '/assets/theme/css/main.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/theme/css/fontawesome-all.min.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/theme/css/academicons.min.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/theme/css/pygments.css' | relative_url }}">
   {% if site.font_serif != false %}
-    <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/assets/theme/css/lora.css' | relative_url }}">
   {% endif %}
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - RSS feed" href="{{ '/feed.xml' | absolute_url }}" >
   <!-- Javascript libraries: loaded at top so templates can use these -->

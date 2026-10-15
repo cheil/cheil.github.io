@@ -8,6 +8,8 @@ author: Christoph Heil
 # tags: []
 comments: true
 ---
+**Update:** This position has been filled. [Welcome, Ralf Meyer!](/blog/2026/new-postdoc/)
+
 We are excited to announce a **postdoctoral researcher position** in **Computational Materials Design** in our group at the Institute of Theoretical and Computational Physics at TU Graz.
 
 The project focuses on investigating electron-phonon coupled superconductors using machine learning techniques combined with state-of-the-art DFT and DFPT methods. The successful candidate will explore novel and application-relevant material systems, working in close collaboration with international research groups in the UK and USA. This is an excellent opportunity to join an active research environment with modern HPC resources and contribute to cutting-edge research in computational materials science.
@@ -28,7 +30,7 @@ A highly motivated researcher with a PhD in Physics or a similar field. Strong i
 - Top research infrastructure and access to the latest technologies  
 - Exciting opportunities for professional and personal development
 
-**Expected start date:** February 1, 2025
+**Expected start date:** February 1, 2026
 
 **How to apply**  
 Candidate selection will begin in January and continue until a suitable candidate has been found. Applications must be submitted **exclusively via the TU Graz job portal**:  

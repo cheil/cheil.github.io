@@ -21,7 +21,7 @@ description: Default template for pages and posts, with contained width.
 
     {{ content }}
 
-    {% if page.comments %}
+    {% if page.comments and site.social.disqus %}
       <div id="disqus_thread"></div>
       <script>
         // Configuration variables: https://disqus.com/admin/universalcode/#configuration-variables

@@ -1,11 +1,12 @@
 ---
-title: Heil Group
+title: About us
 description: Computational Material Design @ TU Graz
 background:
   img: assets/theme/images/banner1.jpg
   by: TU Graz - Lunghammer
   #href: https://unsplash.com/photos/UmncJq4KPcA
 permalink: /about/
+meta_description: "About the Computational Material Design group of Christoph Heil at TU Graz: first-principles modelling of superconductivity and lattice dynamics in materials."
 ---
 
 Welcome to the internet home of the [**Computational Material Design (CMD) Lab**](https://www.tugraz.at/institute/itpcp/research/computational-material-design-superconductors) at the [Graz University of Technology (TU Graz)](https://www.tugraz.at/home).
@@ -22,9 +23,9 @@ Our work extends to utilizing the predictive power of first-principles methods t
 
 - **Investigating superconductivity, charge-density waves, and their competition** in reduced dimensions, particularly in transition metal chalcogenides.  
 - **Searching for new carbon-based superconducting materials** in the nano-regime, such as nanoribbons and nanosheets.  
-- **Exploring the superconducting phase in high-pressure hydrides** and predicting new materials with record-breaking \( T_c \).  
+- **Exploring the superconducting phase in high-pressure hydrides** and predicting new materials with record-breaking *T*<sub>c</sub>.  
 
-For more details about our ongoing projects, visit the [*Research Topics*](/research/projects/) section. A full list of our publications is available in the [*Publications*](/research/publications/) section. 
+For more details about our ongoing projects, visit the [*Research Projects*](/research/projects/) section. A full list of our publications is available in the [*Publications*](/research/publications/) section. 
 
 If you’re interested in collaborating or looking for Bachelor’s or Master’s thesis opportunities, feel free to contact [*Christoph Heil*](/pi_cv/).
 

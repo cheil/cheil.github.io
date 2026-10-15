@@ -9,6 +9,8 @@ author: Christoph Heil
 comments: true
 ---
 
+**Update:** This position has been filled. [Welcome, Luka Wibmer!](/blog/2026/new-phd/)
+
 We are happy to announce a **fully funded PhD position** in **Computational Modeling of Alloys** in our group at the Institute of Theoretical Physics / Computational Physics at TU Graz. (We'll have a related postdoc opening soon as well.)
 
 The project explores how we can use advanced simulation methods to understand and predict the behaviour of complex alloy systems — from their atomic structure to their macroscopic properties, as discribed in more detail [here](https://cheil.github.io/blog/2025/new-project-alloyssc/). The successful candidate will join a collaborative and friendly research environment, work with modern HPC resources, and interact with partners across materials science and theoretical physics.

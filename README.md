@@ -1,57 +1,25 @@
-# petridish 🧫
+# Heil Group website
 
-Petridish is a Jekyll theme for research project websites. Or your personal blog or lab website. 👩‍🔬 It's mobile-friendly (thanks to [Bootstrap 5](https://getbootstrap.com/docs/5.1/)), free, easy to customize, and designed to work well with [GitHub Pages](https://pages.github.com/).
+Source of [cheil.github.io](https://cheil.github.io), the website of the Computational Material Design group of Christoph Heil at the Institute of Theoretical and Computational Physics, TU Graz.
 
-## Installation
+The site is built with [Jekyll](https://jekyllrb.com/) and the [Petridish](https://github.com/peterdesmet/petridish) theme. Every push to `main` triggers a rebuild on GitHub Pages. To preview locally: `bundle install` once, then `bundle exec jekyll serve` and open <http://localhost:4000>.
 
-See the demo website for instructions:
+## Where things live
 
-- [Installation](https://peterdesmet.github.io/petridish/docs/installation)
-- [Configuration](https://peterdesmet.github.io/petridish/docs/configuration)
-- [Markdown](https://peterdesmet.github.io/petridish/docs/markdown)
+| What | Where |
+|---|---|
+| Blog posts | `_posts/YYYY-MM-DD-<slug>.md` (URL: `/blog/YYYY/<slug>/`) |
+| Publication list | `pages/research/publications.md` (newest first) |
+| Research projects | `pages/research/projects.md` |
+| Team and alumni | `_data/team.yml`, `_data/alumni_team.yml` |
+| CV page | `pages/pi_cv.md` |
+| Navigation and footer | `_data/navigation.yml`, `_data/footer.yml` |
+| Images | `assets/theme/images/` (photos as JPEG, at most 2000 px wide) |
+| Privacy page and cookie banner | `pages/privacy.md`, `_includes/cookie-consent.html` |
 
-## Preview
+## Notes
 
-[Demo website](https://peterdesmet.github.io/petridish)
-
-[![screenshot](screenshot.png)](https://peterdesmet.github.io/petridish)
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/peterdesmet/petridish. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-## License
-
-[MIT License](LICENSE)
-
----
-
-<!-- All the above is about the Petridish theme, so you might want to remove that. -->
-
-_The instructions below can be adapted/included in the README of your site repository._
-
-## Usage
-
-This website makes use of the static website generator [Jekyll](https://jekyllrb.com/) and the [Petridish](https://github.com/peterdesmet/petridish) theme. **Each commit to `main` will automatically trigger a new build on GitHub Pages.** There is no need to build the site locally, but you can by installing Jekyll and running `bundle exec jekyll serve`.
-
-Minor changes can be committed directly to `main`.
-
-Changes requiring review (e.g. new blog posts) should be created in a separate branch and submitted as a pull request. Some guidelines:
-
-- Use `72dpi` as image resolution
-- Place background images in `assets/backgrounds/`, name them after their corresponding page/post and ideally crop them to `2100 x 700px`
-- Place content images in `assets/images/`, name them after their corresponding page/post + a suffix, e.g. `-figure-1`
-- Add tags to posts to create relevant groups (e.g. same topic, project).
-- Create internal links as `[previous post]({{ '/permalink/to/post/' | relative_url }})`
-
-## Repo structure
-
-The repository structure follows that of Jekyll websites.
-
-- General site settings: [_config.yml](_config.yml)
-- Pages: [pages/](pages/)
-- Posts: [_posts/](_posts/)
-- Images & static files: [assets/](assets/)
-- Top navigation: [_data/navigation.yml](_data/navigation.yml)
-- Footer content: [_data/footer.yml](_data/footer.yml)
-- Team members: [_data/team.yml](_data/team.yml)
+- Post titles like "New preprint announcement" or "Paper published in ..." are combined with the post's `description` (the paper title) for the browser tab and search results; see `_includes/head.html`.
+- `meta_description` in a page's front matter sets the text search engines show, without changing the subtitle on the page.
+- Fonts (Lora) are self-hosted in `assets/theme/fonts/lora/`, so no request goes to Google Fonts.
+- Content is licensed under CC BY 4.0; the theme code under the MIT license (`LICENSE`).

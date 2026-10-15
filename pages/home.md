@@ -4,6 +4,7 @@ title: Heil Group
 description: Computational Material Design @ TU Graz
 background: assets/theme/images/banner1.jpg
 permalink: /
+meta_description: "Heil Group at TU Graz (Austria): computational materials design of superconductors from first principles - electron-phonon coupling, Eliashberg theory, lattice dynamics and anharmonicity, hydrides, alloys and superconducting thin films."
 ---
 
 ## Hello there!

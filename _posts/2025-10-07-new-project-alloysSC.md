@@ -17,4 +17,4 @@ The project is conducted in close collaboration with Sapienza University of Rome
 
 **PhD opportunities:** Two PhD positions are expected to open soon. Profiles of interest include electronic-structure theory, superconductivity, numerical methods, and scientific software development. Experience with DFT or electron–phonon physics is a plus; computational skills are essential.
 
-**Update:** You can now officially apply for the mentioned job, see [here](https://cheil.github.io/blog/2025/phd-announcement-alloyssc/) and apply [here](https://jobs.tugraz.at/en/jobs/dbbbbb43-bcb2-7ca7-20e9-6903345d8630).
+**Update:** The advertised PhD position has been filled: [Luka Wibmer](/blog/2026/new-phd/) joined the project in April 2026.
