@@ -28,6 +28,10 @@ D. V. Semenok, P. N. Ferreira, D. Zhou, F. Jöbstl, A. V. Sadakov, K. S. Pervako
 L. Wibmer, C. Ostendorf, D. Spath, **C. Heil**, P. N. Ferreira, and M. Aichhorn\
 [**arXiv:2607.07067 cond-mat.str-el**](https://arxiv.org/abs/2607.07067)
 
+- *Anharmonic lattice dynamics and superconductivity in strained bulk and surface niobium*\
+M. R. Sahoo, R. Lucrezi, P. N. Ferreira, C.-N. Tsai, M. Julian, R. P. Prasankumar, M. I. Hussein, and **C. Heil**\
+[**arXiv:2606.02730 cond-mat.supr-con**](https://arxiv.org/abs/2606.02730)
+
 - *Ultrafast dynamics and light-induced superconductivity from first principles*\
 A. Simon, J. Shi, E. Kogler, R. Foster, D. Spath, E. Batson, P. N. Ferreira, M. Sahoo, R. Prasankumar, P. D. Keathley, K. K. Berggren, and **C. Heil**\
 [**arXiv:2603.18182 cond-mat.supr-con**](https://arxiv.org/abs/2603.18182)
@@ -57,7 +61,7 @@ F. Li, S. Aamlid, O. A. Dicks, M.-G. Han, G. Levy, R. Sutarto, Z. Chen, C. Liu, 
 [**Phys. Rev. B 114**, 065415 (2026), doi:10.1103/cjgd-fjh2](https://doi.org/10.1103/cjgd-fjh2)
 
 - *The path to room-temperature superconductivity: A programmatic approach*\
-R. P. Prasankumar, M. Julian, M. Hutcheon, and **C. Heil**, L. Deng, D. Basov, C.-W. Chu, R. Comin, P. Kim, B. Meredig, C. Pickard, W. E. Pickett, T. Strobel, S. Wolf, E. Zurek, and N. Myhrvold\
+R. P. Prasankumar, M. Julian, M. Hutcheon, **C. Heil**, L. Deng, D. Basov, C.-W. Chu, R. Comin, P. Kim, B. Meredig, C. Pickard, W. E. Pickett, T. Strobel, S. Wolf, E. Zurek, and N. Myhrvold\
 [**PNAS 123**, 11 (2026), doi:10.1073/pnas.2520324123](https://doi.org/10.1073/pnas.2520324123)
 
 - *Superconducting High-Pressure Forms of LiSi and LiGe Featuring Square Planar Nets*\
@@ -82,7 +86,7 @@ A. Simon, R. Foster, M. Sahoo, J. Shi, E. Batson, F. Incalza, **C. Heil**, and K
 
 - *Prediction and synthesis of Mg<sub>4</sub>Pt<sub>3</sub>H<sub>6</sub>: A superconducting complex transition metal hydride stabilized at ambient pressure*\
 W. Lu, M. J. Hutcheon, M. F. Hansen, K. Dolui, S. Sinha, M. R. Sahoo, C. J. Pickard, **C. Heil**, A. Pakhomova, M. Mezouar, D. Daisenberger, S. Chariton, V. Prakapenka, M. N. Julian, R. P. Prasankumar, and T. A. Strobel\
-[**Phys. Rev. B 112**, 094513 (2025), doi:10.1103/PhysRevB.112.094513](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.112.094513)
+[**Phys. Rev. B 112**, 094513 (2025), doi:10.1103/hkx1-lytx](https://doi.org/10.1103/hkx1-lytx)
 
 - *IsoME: Streamlining High-Precision Eliashberg Calculations*\
 E. Kogler, D. Spath, R. Lucrezi, H. Mori, Z. Zhu, Z. Li, E. R. Margine, and **C. Heil**\
@@ -109,7 +113,7 @@ K. Panda, A. Bhattacharyya, P. N. Ferreira, R. Mondal, A. Thamizhavel, D. T. Adr
 [**Phys. Rev. B 109**, 224517 (2024), doi:10.1103/PhysRevB.109.224517](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.224517)
 
 - *Feasible route to high-temperature ambient-pressure hydride superconductivity*\
-R. Dolui, L. J. Conway, **C. Heil**, T. A. Strobel, R. Prasankumar, C. J. Pickard\
+K. Dolui, L. J. Conway, **C. Heil**, T. A. Strobel, R. Prasankumar, and C. J. Pickard\
 [**Phys. Rev. Lett. 132,** 166001 (2024), doi:10.1103/PhysRevLett.132.166001](https://doi.org/10.1103/PhysRevLett.132.166001)
 
 - *Full-bandwidth anisotropic Migdal-Eliashberg theory and its application to superhydrides*\
@@ -130,7 +134,7 @@ P. P. Ferreira, L. J. Conway, A. Cucciari, S. Di Cataldo, F. Giannessi, E. Kogle
 
 - *Superconductivity in Te-deficient ZrTe<sub>2</sub>*\
 L. E. Correa, P. P. Ferreira, L. R. de Faria, V. M. Fim, M. S. da Luz, M. S. Torikachvili, **C. Heil**, L. T. F. Eleno, and A. J. S. Machado\
-[**_J. Phys. Chem. C_** 2023, 127, 10, 5162–5168, doi:10.1021/acs.jpcc.2c0883](https://doi.org/10.1021/acs.jpcc.2c08836)
+[**_J. Phys. Chem. C_** 2023, 127, 10, 5162–5168, doi:10.1021/acs.jpcc.2c08836](https://doi.org/10.1021/acs.jpcc.2c08836)
 
 - *In-silico synthesis of lowest-pressure high-T<sub>c</sub> ternary superhydrides*\
 R. Lucrezi, S. di Cataldo, W. von der Linden, L. Boeri, and **C. Heil**\
@@ -146,7 +150,7 @@ L. Boeri, R.G. Hennig, P.J. Hirschfeld, G. Profeta, A. Sanna, E. Zurek, W.E. Pic
 
 - *Probing magnetic exchange interactions with helium*\
 C. Trainer, C.M. Yim, **C. Heil**, L.S. Farrar, V. Tsurkan, A. Loidl, and P. Wahl\
-[**Phys. Rev. Lett.** **127**, 166803 (2021), doi:10.1103/PhysRevLett.127.166803](https://journals.aps.org/prl/accepted/5c07cY84Lad1f76d27e830e04d9cee12fabc238fd)
+[**Phys. Rev. Lett.** **127**, 166803 (2021), doi:10.1103/PhysRevLett.127.166803](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.166803)
 
 - *LaBH<sub>8</sub>: the first high-T<sub>c</sub> low-pressure superhydride*\
 S. di Cataldo, **C. Heil**, W. von der Linden, and L. Boeri\
