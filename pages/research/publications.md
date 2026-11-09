@@ -31,7 +31,7 @@ L. Wibmer, C. Ostendorf, D. Spath, **C. Heil**, P. N. Ferreira, and M. Aichhorn\
 
 - *Anharmonic lattice dynamics and superconductivity in strained bulk and surface niobium*\
 M. R. Sahoo, R. Lucrezi, P. N. Ferreira, C.-N. Tsai, M. Julian, R. P. Prasankumar, M. I. Hussein, and **C. Heil**\
-[**arXiv:2606.02730 cond-mat.supr-con**](https://arxiv.org/abs/2606.02730)
+[**Phys. Rev. B 114**, 254508 (2026), doi:10.1103/tn2d-vjy1](https://doi.org/10.1103/tn2d-vjy1)
 
 - *Ultrafast dynamics and light-induced superconductivity from first principles*\
 A. Simon, J. Shi, E. Kogler, R. Foster, D. Spath, E. Batson, P. N. Ferreira, M. Sahoo, R. Prasankumar, P. D. Keathley, K. K. Berggren, and **C. Heil**\
